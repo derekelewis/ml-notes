@@ -1,0 +1,6 @@
+**/.DS_Store
+**/datasets
+**/data
+.idea
+**/.ipynb_checkpoints
+*.pth
