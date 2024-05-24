@@ -19,6 +19,6 @@ su - ec2-user -c 'bash -s' <<'EOF'
     sudo dnf config-manager --add-repo https://developer.download.nvidia.com/compute/cuda/repos/rhel9/x86_64/cuda-rhel9.repo
     sudo dnf -y module install nvidia-driver:latest-dkms
     sudo dnf -y install cuda
-    conda install -y pytorch torchvision torchaudio pytorch-cuda=11.8 matplotlib jupyterlab -c pytorch -c nvidia
+    conda install pytorch torchvision torchaudio pytorch-cuda=12.1 -c pytorch-nightly -c nvidia
     pip install watermark
 EOF
