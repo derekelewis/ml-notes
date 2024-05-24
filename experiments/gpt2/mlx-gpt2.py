@@ -369,8 +369,8 @@ train_loader = create_dataloader_v1(
     batch_size=2,
     max_length=GPT_CONFIG_124M["context_length"],
     stride=GPT_CONFIG_124M["context_length"],
-    drop_last=False,
-    shuffle=False,
+    drop_last=True,
+    shuffle=True,
 )
 val_loader = create_dataloader_v1(
     val_data,
@@ -390,7 +390,7 @@ mx.eval(model.parameters())
 optimizer = optim.AdamW(
     learning_rate=optim.linear_schedule(0.0, 0.0002, 50), weight_decay=0.1
 )
-num_epochs = 20
+num_epochs = 10
 train_losses, val_losses, tokens_seen = train_model_simple(
     model,
     train_loader,
