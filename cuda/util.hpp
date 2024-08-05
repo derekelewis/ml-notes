@@ -1,4 +1,10 @@
-#include <cstddef>
+inline void checkCudaError(cudaError_t err, const std::string &msg)
+{
+    if (err != cudaSuccess)
+    {
+        throw std::runtime_error(msg + ": " + cudaGetErrorString(err));
+    }
+}
 
 template <typename T>
 void printMatrix(const T *mat, int m, int n)

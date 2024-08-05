@@ -74,19 +74,20 @@ int main()
     float *n_d;
     float *p_d;
 
-    cudaMalloc((void **)&m_d, SIZE * sizeof(float));
-    cudaMalloc((void **)&n_d, SIZE * sizeof(float));
-    cudaMalloc((void **)&p_d, SIZE * sizeof(float));
+    checkCudaError(cudaMalloc((void **)&m_d, SIZE * sizeof(float)), "Failed to allocate m_d");
+    checkCudaError(cudaMalloc((void **)&n_d, SIZE * sizeof(float)), "Failed to allocate n_d");
+    checkCudaError(cudaMalloc((void **)&p_d, SIZE * sizeof(float)), "Failed to allocate p_d");
 
-    cudaMemcpy(m_d, m_h.data(), SIZE * sizeof(float), cudaMemcpyHostToDevice);
-    cudaMemcpy(n_d, n_h.data(), SIZE * sizeof(float), cudaMemcpyHostToDevice);
-    cudaMemcpy(p_d, p_h.data(), SIZE * sizeof(float), cudaMemcpyHostToDevice);
+    checkCudaError(cudaMemcpy(m_d, m_h.data(), SIZE * sizeof(float), cudaMemcpyHostToDevice), "Failed to copy m_h to m_d");
+    checkCudaError(cudaMemcpy(n_d, n_h.data(), SIZE * sizeof(float), cudaMemcpyHostToDevice), "Failed to copy n_h to n_d");
+    checkCudaError(cudaMemcpy(p_d, p_h.data(), SIZE * sizeof(float), cudaMemcpyHostToDevice), "Failed to copy p_h to p_d");
 
     dim3 gridSize(2, 2);
     dim3 blockSize(2, 2);
     std::cout << "matrixMulKernel m@n: " << '\n';
     matrixMulKernel<<<gridSize, blockSize>>>(m_d, n_d, p_d, 4);
-    cudaMemcpy(p_h.data(), p_d, SIZE * sizeof(float), cudaMemcpyDeviceToHost);
+    checkCudaError(cudaGetLastError(), "matrixMulKernel launch failed");
+    checkCudaError(cudaMemcpy(p_h.data(), p_d, SIZE * sizeof(float), cudaMemcpyDeviceToHost), "Failed to copy p_d to p_h");
     printMatrix(p_h.data(), 4, 4);
 
     // change to thread count equal to matrix dimension for inefficient implementations
@@ -103,9 +104,11 @@ int main()
     // p_1,1 p[5]
     // ..
     matrixMulKernelRow<<<gridSize, blockSize>>>(m_d, n_d, p_d, 4);
-    cudaMemcpy(p_h.data(), p_d, SIZE * sizeof(float), cudaMemcpyDeviceToHost);
+    checkCudaError(cudaGetLastError(), "matrixMulKernelRow launch failed");
+    checkCudaError(cudaMemcpy(p_h.data(), p_d, SIZE * sizeof(float), cudaMemcpyDeviceToHost), "Failed to copy p_d to p_h");
     printMatrix(p_h.data(), 4, 4);
 
+    std::cout << "matrixMulKernelCol m@n: " << '\n';
     // thread 0:
     // p_0,0 p[0]
     // p_1,0 p[4]
@@ -114,13 +117,14 @@ int main()
     // p_0,1 p[1]
     // p_1,1 p[5]
     // ..
-    std::cout << "matrixMulKernel m@n: " << '\n';
-    cudaMemcpy(p_h.data(), p_d, SIZE * sizeof(float), cudaMemcpyDeviceToHost);
+    matrixMulKernelCol<<<gridSize, blockSize>>>(m_d, n_d, p_d, 4);
+    checkCudaError(cudaGetLastError(), "matrixMulKernelCol failed to launch");
+    checkCudaError(cudaMemcpy(p_h.data(), p_d, SIZE * sizeof(float), cudaMemcpyDeviceToHost), "Failed to copy p_d to p_h");
     printMatrix(p_h.data(), 4, 4);
 
-    cudaFree(m_d);
-    cudaFree(n_d);
-    cudaFree(p_d);
+    checkCudaError(cudaFree(m_d), "Failed to free m_d");
+    checkCudaError(cudaFree(n_d), "Failed to free n_d");
+    checkCudaError(cudaFree(p_d), "Failed to free p_d");
 
     m_d = nullptr;
     n_d = nullptr;
