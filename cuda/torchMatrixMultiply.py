@@ -14,3 +14,5 @@ print("col kernel:")
 print(torch.ops.myextension.mymatrixmultiply(a, b, "col"))
 print("default kernel:")
 print(torch.ops.myextension.mymatrixmultiply(a, b))
+
+# run with ncu --kernel-name regex:"matrixMulKernel.*" python torchMatrixMultiply.py to profile kernels
