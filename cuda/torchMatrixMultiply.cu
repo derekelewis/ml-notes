@@ -23,6 +23,10 @@ torch::Tensor cuda_matrixMultiply(const torch::Tensor &a, const torch::Tensor &b
     float *b_ptr = b_contiguous.data_ptr<float>();
     float *result_ptr = result.data_ptr<float>();
 
+    // Assumes square matrices and we cast to int for simplicity
+    // and compatibility with our existing kernel code. In practice,
+    // we would need to handle non-square matrices and use an unsigned long
+    // to match PyTorch's tensor sizes.
     int dim{static_cast<int>(a.sizes()[0])};
 
     dim3 blockSize(16, 16);
