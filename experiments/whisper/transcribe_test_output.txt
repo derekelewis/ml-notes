@@ -1,0 +1,2269 @@
+x.shape after conv1 & gelu: (1, 3000, 384)
+x.shape after conv2 & gelu: (1, 1500, 384)
+decoder called
+seek_clips: [(0, 45176)]
+seek: 0
+input_stride: 2
+time_precision: 0.02
+seek_clip_start: 0
+seek_clip_end 45176
+time_offset: 0.0
+window_end_time: 30.0
+segment_size: 3000
+(3000, 80)
+segment_duration: 30.0
+x.shape after conv1 & gelu: (1, 3000, 384)
+x.shape after conv2 & gelu: (1, 1500, 384)
+decoder called
+decoder called
+decoder called
+decoder called
+decoder called
+decoder called
+decoder called
+decoder called
+decoder called
+decoder called
+decoder called
+decoder called
+decoder called
+decoder called
+decoder called
+decoder called
+decoder called
+decoder called
+decoder called
+decoder called
+decoder called
+decoder called
+decoder called
+decoder called
+decoder called
+decoder called
+decoder called
+decoder called
+decoder called
+decoder called
+decoder called
+decoder called
+decoder called
+decoder called
+decoder called
+decoder called
+decoder called
+decoder called
+decoder called
+decoder called
+decoder called
+decoder called
+decoder called
+decoder called
+decoder called
+decoder called
+decoder called
+decoder called
+decoder called
+decoder called
+decoder called
+decoder called
+decoder called
+decoder called
+decoder called
+decoder called
+decoder called
+decoder called
+decoder called
+decoder called
+decoder called
+decoder called
+decoder called
+decoder called
+decoder called
+decoder called
+decoder called
+decoder called
+decoder called
+decoder called
+decoder called
+decoder called
+decoder called
+decoder called
+decoder called
+decoder called
+decoder called
+decoder called
+decoder called
+decoder called
+decoder called
+decoder called
+decoder called
+decoder called
+decoder called
+decoder called
+decoder called
+decoder called
+decoder called
+decoder called
+decoder called
+decoder called
+decoder called
+decoder called
+decoder called
+decoder called
+decoder called
+decoder called
+decoder called
+decoder called
+decoder called
+decoder called
+decoder called
+decoder called
+decoder called
+decoder called
+decoder called
+decoder called
+decoder called
+decoder called
+decoder called
+decoder called
+decoder called
+decoder called
+decoder called
+result: DecodingResult(audio_features=array([[0.118286, 0.112183, 0.0455322, ..., -0.112671, 0.0310364, -0.0409851],
+       [-0.478516, 0.913574, 0.0534363, ..., 1.03418, 0.239624, 1.18555],
+       [0.0639038, 1.77734, 0.607422, ..., 0.430176, 0.0317078, 0.535156],
+       ...,
+       [1.37402, 1.49512, 0.0567627, ..., 0.448975, 2.09766, 0.351562],
+       [1.16211, -1.06738, 0.265381, ..., -0.355225, -0.0108032, -0.298096],
+       [0.0291901, -0.100647, -1.40234, ..., -0.0703125, -0.537598, -0.217773]], dtype=float16), language='en', language_probs=None, tokens=[50364, 17967, 82, 11, 2606, 267, 13, 492, 434, 516, 281, 483, 1409, 337, 965, 13, 492, 434, 516, 281, 352, 536, 2221, 13, 42813, 50636, 50636, 47635, 294, 1808, 502, 13, 2102, 311, 510, 337, 38701, 1822, 30, 50786, 50786, 2425, 11, 2221, 13, 47635, 13, 286, 478, 2491, 13, 3026, 22967, 13, 708, 5607, 291, 281, 264, 7473, 5882, 965, 30, 51186, 51186, 2425, 11, 2491, 13, 3026, 22967, 13, 286, 478, 294, 364, 11139, 512, 534, 9447, 38701, 1822, 293, 309, 311, 668, 31432, 51508, 51508, 385, 337, 264, 1791, 1916, 295, 1708, 13, 467, 1409, 322, 452, 558, 1252, 457, 586, 309, 311, 733, 295, 439, 670, 13, 51780, 51780], text="Mornings, Grat. We're going to get started for today. We're going to go see Mr. Raymond Hole in room 1. Who's here for abdominal pain? Hello, Mr. Hole. I'm Dr. Perotta. What brings you to the emergency department today? Hello, Dr. Perotta. I'm in an experiencing some really intense abdominal pain and it's been bothering me for the past couple of days. It started on my right side but now it's kind of all over.", avg_logprob=-0.40554235707158626, no_speech_prob=0.2056533247232437, temperature=0.0, compression_ratio=1.6680161943319838)
+timestamp_tokens: [ True False False False False False False False False False False False
+ False False False False False False False False False False False False
+ False  True  True False False False False False False False False False
+ False False False  True  True False False False False False False False
+ False False False False False False False False False False False False
+ False False False  True  True False False False False False False False
+ False False False False False False False False False False False False
+ False False False  True  True False False False False False False False
+ False False False False False False False False False False False False
+ False False False False  True  True]
+single_timestamp_ending: False
+consecutive: [ 25  39  63  87 112]
+slices: [26, 40, 64, 88, 113]
+slices: [26, 40, 64, 88, 113]
+new_segment called
+new_segment called
+new_segment called
+new_segment called
+new_segment called
+time_offset: 28.32
+window_end_time: 58.32
+segment_size: 3000
+(3000, 80)
+segment_duration: 30.0
+x.shape after conv1 & gelu: (1, 3000, 384)
+x.shape after conv2 & gelu: (1, 1500, 384)
+decoder called
+decoder called
+decoder called
+decoder called
+decoder called
+decoder called
+decoder called
+decoder called
+decoder called
+decoder called
+decoder called
+decoder called
+decoder called
+decoder called
+decoder called
+decoder called
+decoder called
+decoder called
+decoder called
+decoder called
+decoder called
+decoder called
+decoder called
+decoder called
+decoder called
+decoder called
+decoder called
+decoder called
+decoder called
+decoder called
+decoder called
+decoder called
+decoder called
+decoder called
+decoder called
+decoder called
+decoder called
+decoder called
+decoder called
+decoder called
+decoder called
+decoder called
+decoder called
+decoder called
+decoder called
+decoder called
+decoder called
+decoder called
+decoder called
+decoder called
+decoder called
+decoder called
+decoder called
+decoder called
+decoder called
+decoder called
+decoder called
+decoder called
+decoder called
+decoder called
+decoder called
+decoder called
+decoder called
+decoder called
+decoder called
+decoder called
+decoder called
+decoder called
+decoder called
+decoder called
+decoder called
+decoder called
+decoder called
+decoder called
+decoder called
+decoder called
+decoder called
+decoder called
+decoder called
+decoder called
+decoder called
+decoder called
+decoder called
+decoder called
+decoder called
+decoder called
+decoder called
+decoder called
+decoder called
+decoder called
+decoder called
+decoder called
+decoder called
+decoder called
+decoder called
+decoder called
+decoder called
+decoder called
+decoder called
+decoder called
+decoder called
+decoder called
+decoder called
+decoder called
+decoder called
+decoder called
+decoder called
+decoder called
+decoder called
+decoder called
+decoder called
+decoder called
+decoder called
+decoder called
+decoder called
+decoder called
+decoder called
+decoder called
+decoder called
+decoder called
+decoder called
+decoder called
+decoder called
+decoder called
+decoder called
+result: DecodingResult(audio_features=array([[0.121155, 0.0713501, 0.0473328, ..., -0.0968018, 0.0390015, -0.127686],
+       [-0.695312, -1.86816, 0.776367, ..., 0.0400696, 0.0709229, -0.288574],
+       [0.127808, 0.372314, -0.53418, ..., -0.0635376, -0.222656, -0.21814],
+       ...,
+       [0.0933228, -0.916504, 2.04297, ..., 1.22363, 0.377197, -0.82959],
+       [1.30273, -1.17578, 0.233276, ..., -0.333252, -0.0360413, -0.670898],
+       [0.0464783, -0.153687, -1.37695, ..., 0.0455627, -0.523926, -0.171387]], dtype=float16), language='en', language_probs=None, tokens=[50376, 467, 1194, 309, 576, 312, 1151, 281, 483, 257, 1520, 760, 13, 50494, 50494, 1057, 558, 13, 961, 311, 1590, 257, 857, 7731, 13, 1282, 257, 4373, 295, 502, 13, 3279, 11, 577, 576, 291, 3314, 264, 1822, 30, 50828, 50828, 286, 1116, 584, 466, 1386, 420, 1614, 13, 50980, 50980, 286, 478, 2597, 281, 1568, 300, 291, 434, 294, 1822, 11, 2221, 13, 47635, 13, 961, 311, 853, 281, 2573, 484, 437, 311, 516, 322, 13, 1664, 291, 51244, 51244, 6786, 264, 1822, 337, 385, 30, 1119, 309, 8199, 11, 2800, 88, 420, 23471, 30, 51492, 51492, 467, 311, 544, 295, 257, 8199, 1822, 13, 467, 311, 6870, 294, 452, 3126, 36494, 11, 733, 295, 322, 264, 558, 1252, 13, 51800, 51800], text="It thought it would be best to get a check down. All right. Let's stop a bit deeper. On a scale of 1.10, how would you rate the pain? I'd say about 6 or 7. I'm sorry to hear that you're in pain, Mr. Hole. Let's try to figure out what's going on. Can you describe the pain for me? Is it sharp, achy or dull? It's more of a sharp pain. It's located in my lower abdomen, kind of on the right side.", avg_logprob=-0.2785402526855469, no_speech_prob=0.009258107282221317, temperature=0.0, compression_ratio=1.5573122529644268)
+timestamp_tokens: [ True False False False False False False False False False False False
+ False  True  True False False False False False False False False False
+ False False False False False False False False False False False False
+ False False False False  True  True False False False False False False
+ False False  True  True False False False False False False False False
+ False False False False False False False False False False False False
+ False False False False False False False False  True  True False False
+ False False False False False False False False False False False False
+ False  True  True False False False False False False False False False
+ False False False False False False False False False False False False
+ False False  True  True]
+single_timestamp_ending: False
+consecutive: [ 13  40  50  80  97 122]
+slices: [14, 41, 51, 81, 98, 123]
+slices: [14, 41, 51, 81, 98, 123]
+new_segment called
+new_segment called
+new_segment called
+new_segment called
+new_segment called
+new_segment called
+time_offset: 57.04
+window_end_time: 87.04
+segment_size: 3000
+(3000, 80)
+segment_duration: 30.0
+x.shape after conv1 & gelu: (1, 3000, 384)
+x.shape after conv2 & gelu: (1, 1500, 384)
+decoder called
+decoder called
+decoder called
+decoder called
+decoder called
+decoder called
+decoder called
+decoder called
+decoder called
+decoder called
+decoder called
+decoder called
+decoder called
+decoder called
+decoder called
+decoder called
+decoder called
+decoder called
+decoder called
+decoder called
+decoder called
+decoder called
+decoder called
+decoder called
+decoder called
+decoder called
+decoder called
+decoder called
+decoder called
+decoder called
+decoder called
+decoder called
+decoder called
+decoder called
+decoder called
+decoder called
+decoder called
+decoder called
+decoder called
+decoder called
+decoder called
+decoder called
+decoder called
+decoder called
+decoder called
+decoder called
+decoder called
+decoder called
+decoder called
+decoder called
+decoder called
+decoder called
+decoder called
+decoder called
+decoder called
+decoder called
+decoder called
+decoder called
+decoder called
+decoder called
+decoder called
+decoder called
+decoder called
+decoder called
+decoder called
+decoder called
+decoder called
+decoder called
+decoder called
+decoder called
+decoder called
+decoder called
+decoder called
+decoder called
+decoder called
+decoder called
+decoder called
+decoder called
+decoder called
+decoder called
+decoder called
+decoder called
+decoder called
+decoder called
+decoder called
+decoder called
+decoder called
+decoder called
+decoder called
+decoder called
+decoder called
+decoder called
+decoder called
+decoder called
+decoder called
+decoder called
+decoder called
+decoder called
+decoder called
+result: DecodingResult(audio_features=array([[0.113525, 0.105957, 0.108521, ..., -0.135498, 0.0456543, -0.0112762],
+       [0.714355, 1.85254, 0.293457, ..., -0.758789, 0.270264, 0.009552],
+       [0.298584, -0.190063, 0.803223, ..., -0.586914, 0.345215, 0.465576],
+       ...,
+       [1.01855, -1.58691, -1.01172, ..., 0.944824, -0.414551, -0.0515747],
+       [1.25, -1.53223, 0.119751, ..., -0.480713, -0.00017643, -0.47876],
+       [0.00165939, -0.175903, -1.33301, ..., -0.0278931, -0.509766, -0.190552]], dtype=float16), language='en', language_probs=None, tokens=[50364, 286, 458, 291, 2835, 264, 1822, 1409, 322, 264, 558, 1252, 457, 309, 311, 1670, 4259, 926, 13, 50616, 50616, 8646, 264, 1822, 9181, 294, 472, 1081, 1670, 420, 307, 309, 920, 2684, 926, 264, 36494, 30, 50904, 50904, 467, 311, 2780, 646, 281, 264, 3380, 2535, 13, 51056, 51056, 1119, 309, 257, 5754, 29677, 420, 775, 309, 808, 293, 352, 30, 51232, 51232, 467, 1487, 293, 1709, 13, 1033, 13, 1044, 291, 337, 5414, 300, 13, 51448, 51448, 3560, 291, 5694, 604, 661, 8332, 2051, 365, 264, 1822, 11, 1270, 382, 34735, 64, 11, 51680, 51680], text="I know you mentioned the pain started on the right side but it's since moved around. Has the pain stayed in one place since or is it still moving around the abdomen? It's gone back to the original position. Is it a constant ache or does it come and go? It comes and goes. Okay. Thank you for sharing that. Have you noticed any other symptoms along with the pain, such as nausea,", avg_logprob=-0.1712936247238005, no_speech_prob=0.0007318558054976165, temperature=0.0, compression_ratio=1.6434782608695653)
+timestamp_tokens: [ True False False False False False False False False False False False
+ False False False False False False False  True  True False False False
+ False False False False False False False False False False False False
+ False False  True  True False False False False False False False False
+ False  True  True False False False False False False False False False
+ False False False  True  True False False False False False False False
+ False False False False False False  True  True False False False False
+ False False False False False False False False False False False False
+  True  True]
+single_timestamp_ending: False
+consecutive: [19 38 49 63 78 96]
+slices: [20, 39, 50, 64, 79, 97]
+slices: [20, 39, 50, 64, 79, 97]
+new_segment called
+new_segment called
+new_segment called
+new_segment called
+new_segment called
+new_segment called
+time_offset: 83.36
+window_end_time: 113.36
+segment_size: 3000
+(3000, 80)
+segment_duration: 30.0
+x.shape after conv1 & gelu: (1, 3000, 384)
+x.shape after conv2 & gelu: (1, 1500, 384)
+decoder called
+decoder called
+decoder called
+decoder called
+decoder called
+decoder called
+decoder called
+decoder called
+decoder called
+decoder called
+decoder called
+decoder called
+decoder called
+decoder called
+decoder called
+decoder called
+decoder called
+decoder called
+decoder called
+decoder called
+decoder called
+decoder called
+decoder called
+decoder called
+decoder called
+decoder called
+decoder called
+decoder called
+decoder called
+decoder called
+decoder called
+decoder called
+decoder called
+decoder called
+decoder called
+decoder called
+decoder called
+decoder called
+decoder called
+decoder called
+decoder called
+decoder called
+decoder called
+decoder called
+decoder called
+decoder called
+decoder called
+decoder called
+decoder called
+decoder called
+decoder called
+decoder called
+decoder called
+decoder called
+decoder called
+decoder called
+decoder called
+decoder called
+decoder called
+decoder called
+decoder called
+decoder called
+decoder called
+decoder called
+decoder called
+decoder called
+decoder called
+decoder called
+decoder called
+decoder called
+decoder called
+decoder called
+decoder called
+decoder called
+decoder called
+decoder called
+decoder called
+decoder called
+decoder called
+decoder called
+decoder called
+decoder called
+decoder called
+decoder called
+decoder called
+decoder called
+decoder called
+decoder called
+decoder called
+decoder called
+decoder called
+decoder called
+decoder called
+decoder called
+decoder called
+decoder called
+result: DecodingResult(audio_features=array([[0.169922, 0.194458, 0.106079, ..., -0.0615234, 0.0184174, -0.0744629],
+       [-0.403564, -0.368408, 1.02246, ..., -0.376953, 0.179199, -2.82031],
+       [-0.420898, -0.279053, 0.910645, ..., -1.43945, 0.306152, -1.62012],
+       ...,
+       [2.29688, 0.0858154, -0.255127, ..., 1.27832, -0.171509, 0.981934],
+       [1.24023, -1.08496, 0.192505, ..., -0.259277, 0.0556335, -0.722656],
+       [0.028183, -0.14502, -1.4043, ..., -0.0246124, -0.52832, -0.175537]], dtype=float16), language='en', language_probs=None, tokens=[50364, 46234, 11, 2962, 294, 40094, 14100, 30, 50528, 50528, 286, 2378, 380, 11732, 493, 457, 286, 2378, 380, 2633, 257, 857, 34735, 563, 13, 50720, 50720, 883, 4776, 2962, 294, 264, 40094, 14100, 2139, 13, 50908, 50908, 2639, 18277, 30, 51016, 51016, 286, 500, 380, 519, 286, 362, 257, 18277, 13, 51140, 51140, 3560, 291, 632, 604, 5162, 2962, 294, 428, 6339, 420, 604, 777, 17504, 30, 51380, 51380, 883, 11, 1825, 575, 3105, 13, 286, 2378, 380, 2726, 604, 777, 17504, 293, 452, 6339, 575, 668, 659, 12, 21190, 25367, 13, 51716, 51716], text="vomiting, changes in bowel habits? I haven't thrown up but I haven't feeling a bit nauseous. No significant changes in the bowel habits either. Any fever? I don't think I have a fever. Have you had any recent changes in your diet or any new medications? No, nothing has changed. I haven't taken any new medications and my diet has been pre-consistent.", avg_logprob=-0.18471976121266684, no_speech_prob=0.010156492702662945, temperature=0.0, compression_ratio=1.781725888324873)
+timestamp_tokens: [ True False False False False False False False  True  True False False
+ False False False False False False False False False False False False
+ False  True  True False False False False False False False False False
+  True  True False False False  True  True False False False False False
+ False False False False  True  True False False False False False False
+ False False False False False False False False  True  True False False
+ False False False False False False False False False False False False
+ False False False False False False False False False  True  True]
+single_timestamp_ending: False
+consecutive: [ 8 25 36 41 52 68 93]
+slices: [9, 26, 37, 42, 53, 69, 94]
+slices: [9, 26, 37, 42, 53, 69, 94]
+new_segment called
+new_segment called
+new_segment called
+new_segment called
+new_segment called
+new_segment called
+new_segment called
+time_offset: 110.4
+window_end_time: 140.4
+segment_size: 3000
+(3000, 80)
+segment_duration: 30.0
+x.shape after conv1 & gelu: (1, 3000, 384)
+x.shape after conv2 & gelu: (1, 1500, 384)
+decoder called
+decoder called
+decoder called
+decoder called
+decoder called
+decoder called
+decoder called
+decoder called
+decoder called
+decoder called
+decoder called
+decoder called
+decoder called
+decoder called
+decoder called
+decoder called
+decoder called
+decoder called
+decoder called
+decoder called
+decoder called
+decoder called
+decoder called
+decoder called
+decoder called
+decoder called
+decoder called
+decoder called
+decoder called
+decoder called
+decoder called
+decoder called
+decoder called
+decoder called
+decoder called
+decoder called
+decoder called
+decoder called
+decoder called
+decoder called
+decoder called
+decoder called
+decoder called
+decoder called
+decoder called
+decoder called
+decoder called
+decoder called
+decoder called
+decoder called
+decoder called
+decoder called
+decoder called
+decoder called
+decoder called
+decoder called
+decoder called
+decoder called
+decoder called
+decoder called
+decoder called
+decoder called
+decoder called
+decoder called
+decoder called
+decoder called
+decoder called
+decoder called
+decoder called
+decoder called
+decoder called
+decoder called
+decoder called
+decoder called
+decoder called
+decoder called
+decoder called
+decoder called
+decoder called
+decoder called
+decoder called
+decoder called
+decoder called
+decoder called
+decoder called
+decoder called
+decoder called
+decoder called
+decoder called
+decoder called
+decoder called
+decoder called
+decoder called
+decoder called
+decoder called
+decoder called
+decoder called
+decoder called
+decoder called
+decoder called
+decoder called
+decoder called
+decoder called
+decoder called
+decoder called
+decoder called
+result: DecodingResult(audio_features=array([[0.100647, 0.136719, 0.131348, ..., -0.0734253, 0.078186, -0.0648804],
+       [-0.911133, 2.44336, 0.810059, ..., 0.110596, 0.586914, -0.200439],
+       [-1.69922, 3.79297, 0.758301, ..., -0.0615234, 0.355225, -0.710938],
+       ...,
+       [1.34766, -0.777344, 0.983398, ..., -0.864746, 0.644043, 0.942383],
+       [1.0957, -1.65723, 0.398682, ..., -0.384033, 0.0277252, 0.243774],
+       [0.0391235, -0.140259, -1.42285, ..., -0.0525818, -0.560547, -0.195923]], dtype=float16), language='en', language_probs=None, tokens=[50412, 3560, 291, 5694, 498, 1340, 1669, 264, 1822, 1101, 420, 5324, 30, 50568, 50568, 1171, 1365, 11, 775, 3936, 420, 4473, 2535, 3345, 309, 30, 50732, 50804, 467, 1177, 380, 1643, 281, 312, 4077, 281, 3936, 457, 2684, 926, 775, 652, 428, 5324, 13, 51024, 51024, 467, 311, 544, 4619, 562, 286, 478, 8493, 920, 13, 51108, 51184, 2639, 5162, 14799, 420, 30791, 30, 51288, 51356, 883, 11, 300, 311, 577, 286, 393, 519, 295, 13, 51464, 51464, 639, 445, 1361, 322, 5800, 13, 51528, 51588, 2639, 2503, 295, 2531, 1822, 294, 264, 1791, 30, 51724, 51724, 2639, 33455, 294, 300, 1859, 30, 51800], text="Have you noticed if anything makes the pain better or worse? For example, does eating or changing position affect it? It doesn't seem to be related to eating but moving around does make your worse. It's more comfortable when I'm lying still. Any recent injuries or illnesses? No, that's how I can think of. This just came on suddenly. Any history of similar pain in the past? Any surgeries in that area?", avg_logprob=-0.1938429778476931, no_speech_prob=0.009548250585794449, temperature=0.0, compression_ratio=1.562015503875969)
+timestamp_tokens: [ True False False False False False False False False False False False
+ False  True  True False False False False False False False False False
+ False False  True  True False False False False False False False False
+ False False False False False False False False False  True  True False
+ False False False False False False False False False  True  True False
+ False False False False False  True  True False False False False False
+ False False False False False  True  True False False False False False
+ False  True  True False False False False False False False False False
+  True  True False False False False False False  True]
+single_timestamp_ending: True
+consecutive: [13 26 45 57 65 77 85 96]
+slices: [14, 27, 46, 58, 66, 78, 86, 97]
+slices: [14, 27, 46, 58, 66, 78, 86, 97, 105]
+new_segment called
+new_segment called
+new_segment called
+new_segment called
+new_segment called
+new_segment called
+new_segment called
+new_segment called
+new_segment called
+seek: 11040
+seek: 14040
+time_offset: 140.4
+window_end_time: 170.4
+segment_size: 3000
+(3000, 80)
+segment_duration: 30.0
+x.shape after conv1 & gelu: (1, 3000, 384)
+x.shape after conv2 & gelu: (1, 1500, 384)
+decoder called
+decoder called
+decoder called
+decoder called
+decoder called
+decoder called
+decoder called
+decoder called
+decoder called
+decoder called
+decoder called
+decoder called
+decoder called
+decoder called
+decoder called
+decoder called
+decoder called
+decoder called
+decoder called
+decoder called
+decoder called
+decoder called
+decoder called
+decoder called
+decoder called
+decoder called
+decoder called
+decoder called
+decoder called
+decoder called
+decoder called
+decoder called
+decoder called
+decoder called
+decoder called
+decoder called
+decoder called
+decoder called
+decoder called
+decoder called
+decoder called
+decoder called
+decoder called
+decoder called
+decoder called
+decoder called
+decoder called
+decoder called
+decoder called
+decoder called
+decoder called
+decoder called
+decoder called
+decoder called
+decoder called
+decoder called
+decoder called
+decoder called
+decoder called
+decoder called
+decoder called
+decoder called
+decoder called
+decoder called
+decoder called
+decoder called
+decoder called
+decoder called
+decoder called
+decoder called
+decoder called
+decoder called
+decoder called
+decoder called
+decoder called
+decoder called
+decoder called
+decoder called
+decoder called
+decoder called
+decoder called
+decoder called
+decoder called
+decoder called
+decoder called
+decoder called
+decoder called
+decoder called
+decoder called
+decoder called
+decoder called
+decoder called
+decoder called
+decoder called
+decoder called
+decoder called
+decoder called
+decoder called
+decoder called
+decoder called
+decoder called
+decoder called
+decoder called
+decoder called
+decoder called
+decoder called
+decoder called
+decoder called
+result: DecodingResult(audio_features=array([[0.204712, 0.138062, 0.212524, ..., -0.105591, 0.0562744, -0.0317688],
+       [0.130249, -0.797852, 1.64062, ..., 0.453369, -0.488037, -0.313477],
+       [-0.902832, -1.44434, 0.651367, ..., -0.426514, -1.38672, 0.471924],
+       ...,
+       [0.65918, -0.630371, 1.07422, ..., -0.772949, 0.824707, 0.858887],
+       [0.947754, -1.69727, 0.339111, ..., -0.562988, 0.0018158, 0.284668],
+       [0.0592957, -0.138306, -1.45996, ..., -0.0542297, -0.550781, -0.196289]], dtype=float16), language='en', language_probs=None, tokens=[50364, 883, 11, 341, 307, 264, 700, 565, 286, 600, 6751, 341, 733, 295, 1822, 293, 572, 33455, 13, 50576, 50680, 286, 603, 2042, 365, 430, 5606, 1983, 1139, 281, 483, 257, 1101, 1558, 13, 50832, 50832, 2555, 4137, 646, 293, 286, 603, 1520, 428, 36494, 13, 50944, 51060, 1911, 11, 23181, 897, 13, 286, 643, 257, 4166, 281, 430, 5606, 1983, 1139, 5006, 1619, 286, 603, 818, 552, 484, 13, 51268, 51380, 286, 603, 722, 538, 8568, 428, 36494, 13, 51464, 51556, 2639, 2064, 284, 1287, 420, 1822, 562, 286, 1886, 510, 30, 51656, 51736, 865, 11, 309, 11051, 544, 322, 264, 558, 1252, 13, 51824], text="No, this is the first time I've experienced this kind of pain and no surgeries. I'll perform with Piscuit exam to get a better idea. Please slide back and I'll check your abdomen. Hey, Scarib. I need a document to Piscuit exam finding says I'll call them out. I'll start by checking your abdomen. Any tenorness or pain when I press here? Yeah, it hurts more on the right side.", avg_logprob=-0.3608409740306713, no_speech_prob=0.007805024739354849, temperature=0.0, compression_ratio=1.5798319327731092)
+timestamp_tokens: [ True False False False False False False False False False False False
+ False False False False False False False  True  True False False False
+ False False False False False False False False False False False  True
+  True False False False False False False False False False False  True
+  True False False False False False False False False False False False
+ False False False False False False False False False False False  True
+  True False False False False False False False False  True  True False
+ False False False False False False False False False False  True  True
+ False False False False False False False False False False  True]
+single_timestamp_ending: True
+consecutive: [19 35 47 71 81 94]
+slices: [20, 36, 48, 72, 82, 95]
+slices: [20, 36, 48, 72, 82, 95, 107]
+new_segment called
+new_segment called
+new_segment called
+new_segment called
+new_segment called
+new_segment called
+new_segment called
+seek: 14040
+seek: 17040
+time_offset: 170.4
+window_end_time: 200.4
+segment_size: 3000
+(3000, 80)
+segment_duration: 30.0
+x.shape after conv1 & gelu: (1, 3000, 384)
+x.shape after conv2 & gelu: (1, 1500, 384)
+decoder called
+decoder called
+decoder called
+decoder called
+decoder called
+decoder called
+decoder called
+decoder called
+decoder called
+decoder called
+decoder called
+decoder called
+decoder called
+decoder called
+decoder called
+decoder called
+decoder called
+decoder called
+decoder called
+decoder called
+decoder called
+decoder called
+decoder called
+decoder called
+decoder called
+decoder called
+decoder called
+decoder called
+decoder called
+decoder called
+decoder called
+decoder called
+decoder called
+decoder called
+decoder called
+decoder called
+decoder called
+decoder called
+decoder called
+decoder called
+decoder called
+decoder called
+decoder called
+decoder called
+decoder called
+decoder called
+decoder called
+decoder called
+decoder called
+decoder called
+decoder called
+decoder called
+decoder called
+decoder called
+decoder called
+decoder called
+decoder called
+decoder called
+decoder called
+decoder called
+decoder called
+decoder called
+decoder called
+decoder called
+decoder called
+decoder called
+decoder called
+decoder called
+decoder called
+decoder called
+decoder called
+decoder called
+decoder called
+decoder called
+decoder called
+decoder called
+decoder called
+decoder called
+decoder called
+decoder called
+decoder called
+decoder called
+decoder called
+decoder called
+decoder called
+decoder called
+decoder called
+decoder called
+decoder called
+decoder called
+decoder called
+decoder called
+result: DecodingResult(audio_features=array([[0.125854, 0.125122, 0.0768433, ..., -0.102844, -0.0121307, 0.00169945],
+       [0.262695, 0.825195, 0.691406, ..., 0.231201, -0.310303, -0.532715],
+       [0.736816, 1.77148, -0.109314, ..., -0.506836, -1.23828, -0.306152],
+       ...,
+       [0.941895, -0.466553, 0.971191, ..., -0.859375, 1.08105, 0.753906],
+       [1.06055, -1.72949, 0.330566, ..., -0.394531, 0.0709229, 0.182983],
+       [0.0663452, -0.156372, -1.4375, ..., -0.0187683, -0.541992, -0.195923]], dtype=float16), language='en', language_probs=None, tokens=[50364, 286, 536, 13, 50396, 50440, 407, 2064, 284, 1287, 293, 264, 558, 3126, 46856, 13, 50548, 50584, 286, 603, 611, 2140, 281, 428, 36494, 365, 264, 18152, 295, 795, 996, 13, 50716, 50716, 1449, 10192, 5646, 337, 385, 13, 50804, 50936, 363, 1509, 4432, 366, 1974, 13, 51008, 51192, 876, 11, 1338, 11, 300, 11051, 562, 291, 718, 352, 13, 51300, 51364, 1033, 11, 286, 600, 12964, 300, 13, 51436, 51476, 286, 603, 611, 2042, 257, 1326, 544, 1139, 10325, 293, 550, 321, 603, 2248, 527, 1393, 13, 51660, 51800], text="I see. So tenorness and the right lower quadrant. I'll also listen to your abdomen with the stats of scob. Just breathe normally for me. Bowsounds are present. Oh, yeah, that hurts when you let go. Okay, I've noted that. I'll also perform a few more examinations and then we'll discuss our plan.", avg_logprob=-0.31871866143268085, no_speech_prob=0.0004875199811067432, temperature=0.0, compression_ratio=1.4676616915422886)
+timestamp_tokens: [ True False False False  True  True False False False False False False
+ False False False False  True  True False False False False False False
+ False False False False False False False False  True  True False False
+ False False False False  True  True False False False False False False
+  True  True False False False False False False False False False False
+ False  True  True False False False False False False False  True  True
+ False False False False False False False False False False False False
+ False False False False False  True  True]
+single_timestamp_ending: False
+consecutive: [ 4 16 32 40 48 61 70 89]
+slices: [5, 17, 33, 41, 49, 62, 71, 90]
+slices: [5, 17, 33, 41, 49, 62, 71, 90]
+new_segment called
+new_segment called
+new_segment called
+new_segment called
+new_segment called
+new_segment called
+new_segment called
+new_segment called
+time_offset: 196.32
+window_end_time: 226.32
+segment_size: 3000
+(3000, 80)
+segment_duration: 30.0
+x.shape after conv1 & gelu: (1, 3000, 384)
+x.shape after conv2 & gelu: (1, 1500, 384)
+decoder called
+decoder called
+decoder called
+decoder called
+decoder called
+decoder called
+decoder called
+decoder called
+decoder called
+decoder called
+decoder called
+decoder called
+decoder called
+decoder called
+decoder called
+decoder called
+decoder called
+decoder called
+decoder called
+decoder called
+decoder called
+decoder called
+decoder called
+decoder called
+decoder called
+decoder called
+decoder called
+decoder called
+decoder called
+decoder called
+decoder called
+decoder called
+decoder called
+decoder called
+decoder called
+decoder called
+decoder called
+decoder called
+decoder called
+decoder called
+decoder called
+decoder called
+decoder called
+decoder called
+decoder called
+decoder called
+decoder called
+decoder called
+decoder called
+decoder called
+decoder called
+decoder called
+decoder called
+decoder called
+decoder called
+decoder called
+decoder called
+decoder called
+decoder called
+decoder called
+decoder called
+decoder called
+decoder called
+decoder called
+decoder called
+decoder called
+decoder called
+decoder called
+decoder called
+decoder called
+decoder called
+decoder called
+decoder called
+decoder called
+decoder called
+decoder called
+decoder called
+decoder called
+decoder called
+decoder called
+decoder called
+decoder called
+decoder called
+decoder called
+decoder called
+decoder called
+decoder called
+decoder called
+decoder called
+decoder called
+decoder called
+decoder called
+decoder called
+decoder called
+decoder called
+decoder called
+result: DecodingResult(audio_features=array([[0.196899, 0.057251, 0.0394287, ..., -0.0622559, 0.0310364, -0.163208],
+       [-0.0352478, -1.49219, 0.553711, ..., 0.43457, -0.212769, -1.31055],
+       [-0.298096, -1.33203, 0.864258, ..., -0.448975, -0.76416, -0.877441],
+       ...,
+       [-0.196899, -0.380371, 0.160767, ..., 1.44141, 0.925781, 0.231445],
+       [1.24707, -1.03711, 0.121277, ..., -0.414795, 0.0509644, -0.671387],
+       [-0.00497055, -0.0892334, -1.32422, ..., -0.0591431, -0.528809, -0.188843]], dtype=float16), language='en', language_probs=None, tokens=[50384, 1033, 11, 286, 478, 1096, 365, 264, 479, 14616, 1139, 13, 50640, 50696, 33726, 490, 264, 558, 3126, 46856, 3928, 19416, 11, 50844, 50844, 1203, 1646, 2544, 2710, 322, 452, 917, 13, 50940, 50972, 286, 603, 1668, 512, 6921, 281, 483, 257, 1850, 3036, 13, 51092, 51092, 286, 603, 360, 512, 3390, 589, 293, 257, 19529, 11049, 281, 4978, 484, 604, 3156, 2663, 13, 51284, 51324, 682, 264, 14991, 11, 321, 603, 611, 483, 257, 27638, 6889, 13, 51464, 51520, 1033, 11, 3263, 665, 13, 286, 478, 257, 857, 5804, 1673, 13, 51656, 51716], text="Okay, I'm done with the Fiscal exam. Aside from the right lower quadrant tenderness, everything else seems normal on my end. I'll order some tests to get a clear picture. I'll do some blood work and a CT scan to rule out any serious issues. In the meantime, we'll also get a urine sample. Okay, sounds good. I'm a bit worried though.", avg_logprob=-0.26619372765223187, no_speech_prob=0.0034799447748810053, temperature=0.0, compression_ratio=1.493273542600897)
+timestamp_tokens: [ True False False False False False False False False False False False
+  True  True False False False False False False False False False  True
+  True False False False False False False False False  True  True False
+ False False False False False False False False False False  True  True
+ False False False False False False False False False False False False
+ False False False False False  True  True False False False False False
+ False False False False False False False  True  True False False False
+ False False False False False False False False False  True  True]
+single_timestamp_ending: False
+consecutive: [12 23 33 46 65 79 93]
+slices: [13, 24, 34, 47, 66, 80, 94]
+slices: [13, 24, 34, 47, 66, 80, 94]
+new_segment called
+new_segment called
+new_segment called
+new_segment called
+new_segment called
+new_segment called
+new_segment called
+time_offset: 222.16
+window_end_time: 252.16
+segment_size: 3000
+(3000, 80)
+segment_duration: 30.0
+x.shape after conv1 & gelu: (1, 3000, 384)
+x.shape after conv2 & gelu: (1, 1500, 384)
+decoder called
+decoder called
+decoder called
+decoder called
+decoder called
+decoder called
+decoder called
+decoder called
+decoder called
+decoder called
+decoder called
+decoder called
+decoder called
+decoder called
+decoder called
+decoder called
+decoder called
+decoder called
+decoder called
+decoder called
+decoder called
+decoder called
+decoder called
+decoder called
+decoder called
+decoder called
+decoder called
+decoder called
+decoder called
+decoder called
+decoder called
+decoder called
+decoder called
+decoder called
+decoder called
+decoder called
+decoder called
+decoder called
+decoder called
+decoder called
+decoder called
+decoder called
+decoder called
+decoder called
+decoder called
+decoder called
+decoder called
+decoder called
+decoder called
+decoder called
+decoder called
+decoder called
+decoder called
+decoder called
+decoder called
+decoder called
+decoder called
+decoder called
+decoder called
+decoder called
+decoder called
+decoder called
+decoder called
+decoder called
+decoder called
+decoder called
+decoder called
+decoder called
+decoder called
+decoder called
+decoder called
+decoder called
+decoder called
+decoder called
+decoder called
+decoder called
+decoder called
+decoder called
+decoder called
+decoder called
+decoder called
+decoder called
+decoder called
+decoder called
+decoder called
+decoder called
+decoder called
+decoder called
+decoder called
+decoder called
+decoder called
+decoder called
+decoder called
+decoder called
+decoder called
+decoder called
+decoder called
+decoder called
+decoder called
+decoder called
+decoder called
+decoder called
+result: DecodingResult(audio_features=array([[0.158936, 0.181885, 0.0233154, ..., -0.0178528, 0.0609436, -0.112305],
+       [-2.38477, 0.948242, 0.790527, ..., 0.203125, 0.341309, -0.915527],
+       [-1.45508, 2.18359, -0.196899, ..., 0.398682, 0.165894, -1.44531],
+       ...,
+       [-0.0960693, -2.03711, 0.103333, ..., 0.328369, 1.40137, -0.473145],
+       [1.14062, -1.09766, 0.0643921, ..., -0.236084, 0.175903, -0.495117],
+       [0.0443115, -0.0982666, -1.40625, ..., -0.0160217, -0.495605, -0.201416]], dtype=float16), language='en', language_probs=None, tokens=[50412, 286, 1223, 293, 321, 603, 360, 527, 1151, 281, 2573, 484, 437, 311, 516, 322, 13, 50596, 50680, 1911, 11, 3022, 13, 50716, 50744, 3764, 337, 264, 479, 14616, 1139, 13, 50824, 50852, 3132, 3054, 307, 3928, 19416, 420, 517, 13872, 399, 11, 50960, 50960, 2318, 294, 264, 558, 3126, 46856, 13, 51052, 51092, 1300, 18767, 3928, 19416, 1974, 13, 51172, 51212, 363, 1509, 4432, 366, 2710, 13, 51280, 51312, 883, 44077, 12964, 13, 51364, 51396, 25173, 7122, 1822, 412, 364, 3180, 484, 295, 2064, 13, 51516, 51556, 1726, 377, 1251, 420, 2758, 307, 3984, 79, 770, 13, 51656, 51688], text="I understand and we'll do our best to figure out what's going on. Hey, subscribe. Again for the Fiscal exam. Applement is tenderness or unpopation, especially in the right lower quadrant. Rebound tenderness present. Bowsounds are normal. No guarding noted. Patient reports pain at an eight out of ten. Notestention or mass is palpated.", avg_logprob=-0.41882698208678004, no_speech_prob=0.006094043143093586, temperature=0.0, compression_ratio=1.5022421524663676)
+timestamp_tokens: [ True False False False False False False False False False False False
+ False False False False False  True  True False False False False  True
+  True False False False False False False False  True  True False False
+ False False False False False False False False  True  True False False
+ False False False False False  True  True False False False False False
+ False  True  True False False False False False False  True  True False
+ False False False  True  True False False False False False False False
+ False False False  True  True False False False False False False False
+ False False False  True  True]
+single_timestamp_ending: False
+consecutive: [17 23 32 44 53 61 69 75 87 99]
+slices: [18, 24, 33, 45, 54, 62, 70, 76, 88, 100]
+slices: [18, 24, 33, 45, 54, 62, 70, 76, 88, 100]
+new_segment called
+new_segment called
+new_segment called
+new_segment called
+new_segment called
+new_segment called
+new_segment called
+new_segment called
+new_segment called
+new_segment called
+time_offset: 248.0
+window_end_time: 278.0
+segment_size: 3000
+(3000, 80)
+segment_duration: 30.0
+x.shape after conv1 & gelu: (1, 3000, 384)
+x.shape after conv2 & gelu: (1, 1500, 384)
+decoder called
+decoder called
+decoder called
+decoder called
+decoder called
+decoder called
+decoder called
+decoder called
+decoder called
+decoder called
+decoder called
+decoder called
+decoder called
+decoder called
+decoder called
+decoder called
+decoder called
+decoder called
+decoder called
+decoder called
+decoder called
+decoder called
+decoder called
+decoder called
+decoder called
+decoder called
+decoder called
+decoder called
+decoder called
+decoder called
+decoder called
+decoder called
+decoder called
+decoder called
+decoder called
+decoder called
+decoder called
+decoder called
+decoder called
+decoder called
+decoder called
+decoder called
+decoder called
+decoder called
+decoder called
+decoder called
+decoder called
+decoder called
+decoder called
+decoder called
+decoder called
+decoder called
+decoder called
+decoder called
+decoder called
+decoder called
+decoder called
+decoder called
+decoder called
+decoder called
+decoder called
+decoder called
+decoder called
+decoder called
+decoder called
+decoder called
+decoder called
+decoder called
+decoder called
+decoder called
+decoder called
+decoder called
+decoder called
+decoder called
+decoder called
+decoder called
+decoder called
+decoder called
+decoder called
+decoder called
+decoder called
+decoder called
+decoder called
+decoder called
+decoder called
+decoder called
+decoder called
+decoder called
+decoder called
+decoder called
+decoder called
+decoder called
+decoder called
+decoder called
+decoder called
+decoder called
+decoder called
+decoder called
+decoder called
+decoder called
+decoder called
+decoder called
+decoder called
+decoder called
+decoder called
+decoder called
+result: DecodingResult(audio_features=array([[0.17688, 0.0485229, 0.0160065, ..., -0.0162048, 0.0131073, -0.129761],
+       [-0.463623, -1.55078, -0.611328, ..., 0.658691, 0.774414, -2.02148],
+       [-0.457275, -1.6582, -0.244995, ..., 0.280518, 0.0449829, -0.764648],
+       ...,
+       [1.2002, -0.887207, 0.760254, ..., -0.757812, 0.553711, 1.00391],
+       [1.01855, -1.67285, 0.342041, ..., -0.380371, 0.00314522, 0.19458],
+       [0.0317688, -0.0919189, -1.45312, ..., -0.0375977, -0.55957, -0.213013]], dtype=float16), language='en', language_probs=None, tokens=[50396, 286, 603, 1668, 257, 383, 7869, 11, 383, 12224, 11, 8280, 651, 11, 669, 5088, 651, 11, 293, 257, 19529, 11049, 50716, 50716, 295, 264, 36494, 293, 34617, 365, 264, 15967, 8712, 13, 50828, 50868, 2743, 11, 12701, 257, 27638, 6889, 337, 5215, 13, 51000, 51180, 2221, 13, 6483, 11, 321, 643, 281, 1472, 512, 6921, 281, 483, 257, 1101, 1558, 337, 437, 51388, 51388, 1062, 312, 9853, 428, 1822, 13, 51460, 51472, 492, 603, 722, 365, 512, 3390, 4997, 293, 25036, 5313, 13, 51596, 51596, 682, 264, 14991, 11, 286, 603, 49292, 746, 337, 264, 1822, 281, 652, 291, 544, 4619, 13, 51808], text="I'll order a CBC, CMP, lipase, amylase, and a CT scan of the abdomen and pelvis with the IV contrast. Also, obtain a urine sample for analysis. Mr. Hope, we need to rest some tests to get a better idea for what might be causing your pain. We'll start with some blood testing and imaging studies. In the meantime, I'll prescribe something for the pain to make you more comfortable.", avg_logprob=-0.2870234363483933, no_speech_prob=0.003940680529922247, temperature=0.0, compression_ratio=1.5447154471544715)
+timestamp_tokens: [ True False False False False False False False False False False False
+ False False False False False False False False False False  True  True
+ False False False False False False False False False False  True  True
+ False False False False False False False False False  True  True False
+ False False False False False False False False False False False False
+ False False False False  True  True False False False False False False
+  True  True False False False False False False False False False False
+ False  True  True False False False False False False False False False
+ False False False False False False False False  True]
+single_timestamp_ending: True
+consecutive: [22 34 45 64 72 85]
+slices: [23, 35, 46, 65, 73, 86]
+slices: [23, 35, 46, 65, 73, 86, 105]
+new_segment called
+new_segment called
+new_segment called
+new_segment called
+new_segment called
+new_segment called
+new_segment called
+seek: 24800
+seek: 27800
+time_offset: 278.0
+window_end_time: 308.0
+segment_size: 3000
+(3000, 80)
+segment_duration: 30.0
+x.shape after conv1 & gelu: (1, 3000, 384)
+x.shape after conv2 & gelu: (1, 1500, 384)
+decoder called
+decoder called
+decoder called
+decoder called
+decoder called
+decoder called
+decoder called
+decoder called
+decoder called
+decoder called
+decoder called
+decoder called
+decoder called
+decoder called
+decoder called
+decoder called
+decoder called
+decoder called
+decoder called
+decoder called
+decoder called
+decoder called
+decoder called
+decoder called
+decoder called
+decoder called
+decoder called
+decoder called
+decoder called
+decoder called
+decoder called
+decoder called
+decoder called
+decoder called
+decoder called
+decoder called
+decoder called
+decoder called
+decoder called
+decoder called
+decoder called
+decoder called
+decoder called
+decoder called
+decoder called
+decoder called
+decoder called
+decoder called
+decoder called
+decoder called
+decoder called
+decoder called
+decoder called
+decoder called
+decoder called
+decoder called
+decoder called
+decoder called
+decoder called
+decoder called
+decoder called
+decoder called
+decoder called
+decoder called
+decoder called
+decoder called
+decoder called
+decoder called
+decoder called
+decoder called
+decoder called
+decoder called
+decoder called
+decoder called
+decoder called
+decoder called
+decoder called
+decoder called
+decoder called
+decoder called
+decoder called
+decoder called
+decoder called
+decoder called
+decoder called
+decoder called
+decoder called
+decoder called
+decoder called
+decoder called
+decoder called
+decoder called
+decoder called
+decoder called
+decoder called
+decoder called
+decoder called
+decoder called
+decoder called
+decoder called
+decoder called
+decoder called
+decoder called
+decoder called
+decoder called
+result: DecodingResult(audio_features=array([[0.0988159, 0.153198, 0.0637817, ..., -0.11084, -0.00548935, -0.0911865],
+       [-0.683105, -1.61426, 0.249023, ..., 1.06445, -0.348633, 0.209595],
+       [-0.284912, -0.603516, 0.172974, ..., 0.975586, -0.79541, 0.598145],
+       ...,
+       [0.904785, 0.949219, 0.910645, ..., -0.265625, 0.697266, 0.26416],
+       [1.2041, -1.30273, 0.289307, ..., -0.374023, -0.0300598, -0.203491],
+       [0.081665, -0.151733, -1.44434, ..., -0.0558472, -0.568359, -0.19458]], dtype=float16), language='en', language_probs=None, tokens=[50388, 1033, 11, 1309, 291, 13, 50580, 50580, 286, 445, 528, 281, 2573, 484, 437, 311, 516, 322, 13, 50680, 50720, 7021, 13, 50776, 50776, 492, 603, 360, 527, 1151, 281, 5876, 264, 3082, 13, 50892, 50916, 286, 603, 611, 10101, 527, 12308, 493, 264, 1500, 293, 574, 412, 264, 1399, 1409, 13, 51108, 51132, 1119, 456, 1340, 1646, 291, 519, 286, 820, 458, 466, 428, 8332, 420, 4625, 2503, 30, 51336, 51428, 286, 393, 380, 519, 295, 1340, 1646, 412, 264, 1623, 13, 51532, 51532, 286, 4449, 428, 854, 2491, 13, 1603, 304, 2595, 13, 51616, 51668, 509, 434, 2928, 13, 51700, 51732], text="Okay, thank you. I just want to figure out what's going on. Absolutely. We'll do our best to identify the cause. I'll also extend our suicide up the test and look at the process started. Is there anything else you think I should know about your symptoms or medical history? I can't think of anything else at the moment. I appreciate your help Dr. Braldo. You're welcome.", avg_logprob=-0.31343812488374256, no_speech_prob=0.0035308529622852802, temperature=0.0, compression_ratio=1.5546218487394958)
+timestamp_tokens: [ True False False False False False  True  True False False False False
+ False False False False False False False  True  True False False  True
+  True False False False False False False False False False False  True
+  True False False False False False False False False False False False
+ False False False False False  True  True False False False False False
+ False False False False False False False False False False False  True
+  True False False False False False False False False False False False
+  True  True False False False False False False False False False False
+  True  True False False False False  True  True]
+single_timestamp_ending: False
+consecutive: [  6  19  23  35  53  71  84  96 102]
+slices: [7, 20, 24, 36, 54, 72, 85, 97, 103]
+slices: [7, 20, 24, 36, 54, 72, 85, 97, 103]
+new_segment called
+new_segment called
+new_segment called
+new_segment called
+new_segment called
+new_segment called
+new_segment called
+new_segment called
+new_segment called
+time_offset: 304.72
+window_end_time: 334.72
+segment_size: 3000
+(3000, 80)
+segment_duration: 30.0
+x.shape after conv1 & gelu: (1, 3000, 384)
+x.shape after conv2 & gelu: (1, 1500, 384)
+decoder called
+decoder called
+decoder called
+decoder called
+decoder called
+decoder called
+decoder called
+decoder called
+decoder called
+decoder called
+decoder called
+decoder called
+decoder called
+decoder called
+decoder called
+decoder called
+decoder called
+decoder called
+decoder called
+decoder called
+decoder called
+decoder called
+decoder called
+decoder called
+decoder called
+decoder called
+decoder called
+decoder called
+decoder called
+decoder called
+decoder called
+decoder called
+decoder called
+decoder called
+decoder called
+decoder called
+decoder called
+decoder called
+decoder called
+decoder called
+decoder called
+decoder called
+decoder called
+decoder called
+decoder called
+decoder called
+decoder called
+decoder called
+decoder called
+decoder called
+decoder called
+decoder called
+decoder called
+decoder called
+decoder called
+decoder called
+decoder called
+decoder called
+decoder called
+decoder called
+decoder called
+decoder called
+decoder called
+decoder called
+decoder called
+decoder called
+decoder called
+decoder called
+decoder called
+decoder called
+decoder called
+decoder called
+decoder called
+decoder called
+decoder called
+decoder called
+decoder called
+decoder called
+decoder called
+decoder called
+decoder called
+decoder called
+decoder called
+decoder called
+decoder called
+decoder called
+decoder called
+decoder called
+decoder called
+decoder called
+result: DecodingResult(audio_features=array([[0.118835, 0.128418, 0.072876, ..., -0.0125504, 0.0682373, -0.106201],
+       [-0.75, -0.197754, 0.385254, ..., 1.02832, -0.257812, -0.575684],
+       [0.628418, 0.956543, 0.966309, ..., 0.507324, -0.36792, 0.272461],
+       ...,
+       [-0.918945, 1.18359, 0.661621, ..., 0.760254, 0.92041, -0.47998],
+       [1.29395, -1.16211, 0.0731812, ..., -0.237183, -0.052002, -0.73291],
+       [0.00540543, -0.147339, -1.3457, ..., 0.071167, -0.501465, -0.190918]], dtype=float16), language='en', language_probs=None, tokens=[50396, 961, 311, 483, 729, 6921, 1096, 293, 321, 603, 352, 490, 456, 13, 50520, 50548, 759, 264, 1822, 47567, 694, 420, 498, 291, 3449, 604, 18087, 2962, 949, 321, 483, 264, 3542, 11, 50832, 50832, 500, 380, 20842, 281, 2944, 428, 818, 2960, 13, 50928, 51080, 48945, 47317, 13, 51124, 51200, 961, 311, 722, 264, 4537, 322, 15967, 33033, 293, 22096, 1451, 45147, 295, 25778, 533, 337, 1822, 1969, 13, 51484, 51544, 3443, 264, 3542, 366, 646, 11, 321, 603, 19486, 442, 293, 6997, 498, 26646, 51732, 51732], text="Let's get those tests done and we'll go from there. If the pain worsens or if you notice any concerning changes before we get the results, don't hesitate to push your call button. Nurse Perez. Let's start the patient on IV fluids and administer four milligrams of morphine for pain control. Once the results are back, we'll reassess and determine if surgical", avg_logprob=-0.19337666829427083, no_speech_prob=0.0035898166242986917, temperature=0.0, compression_ratio=1.5633187772925765)
+timestamp_tokens: [ True False False False False False False False False False False False
+ False False  True  True False False False False False False False False
+ False False False False False False False False False False  True  True
+ False False False False False False False False False  True  True False
+ False False  True  True False False False False False False False False
+ False False False False False False False False False False False  True
+  True False False False False False False False False False False False
+ False False False  True  True]
+single_timestamp_ending: False
+consecutive: [14 34 45 50 71 87]
+slices: [15, 35, 46, 51, 72, 88]
+slices: [15, 35, 46, 51, 72, 88]
+new_segment called
+new_segment called
+new_segment called
+new_segment called
+new_segment called
+new_segment called
+time_offset: 332.08
+window_end_time: 362.08
+segment_size: 3000
+(3000, 80)
+segment_duration: 30.0
+x.shape after conv1 & gelu: (1, 3000, 384)
+x.shape after conv2 & gelu: (1, 1500, 384)
+decoder called
+decoder called
+decoder called
+decoder called
+decoder called
+decoder called
+decoder called
+decoder called
+decoder called
+decoder called
+decoder called
+decoder called
+decoder called
+decoder called
+decoder called
+decoder called
+decoder called
+decoder called
+decoder called
+decoder called
+decoder called
+decoder called
+decoder called
+decoder called
+decoder called
+decoder called
+decoder called
+decoder called
+decoder called
+decoder called
+decoder called
+decoder called
+decoder called
+decoder called
+decoder called
+decoder called
+decoder called
+decoder called
+decoder called
+decoder called
+decoder called
+decoder called
+decoder called
+decoder called
+decoder called
+decoder called
+decoder called
+decoder called
+decoder called
+decoder called
+decoder called
+decoder called
+decoder called
+decoder called
+decoder called
+decoder called
+decoder called
+decoder called
+decoder called
+decoder called
+decoder called
+decoder called
+decoder called
+decoder called
+decoder called
+decoder called
+decoder called
+decoder called
+decoder called
+decoder called
+decoder called
+decoder called
+decoder called
+decoder called
+decoder called
+decoder called
+decoder called
+decoder called
+decoder called
+decoder called
+decoder called
+decoder called
+decoder called
+decoder called
+result: DecodingResult(audio_features=array([[0.270996, 0.243042, 0.126099, ..., -0.139404, 0.0629272, -0.0580444],
+       [-0.338379, 4.27734, 0.176025, ..., -1.84766, -0.507324, -1.69922],
+       [-2.21875, 3.01172, 0.973633, ..., -1.44434, -0.484863, -1.43848],
+       ...,
+       [1.34473, -0.653809, 1.29102, ..., -0.345947, 1.0957, 0.126343],
+       [1.16113, -0.931641, 0.226562, ..., -0.259521, 0.0190887, -0.544434],
+       [0.0845337, -0.123474, -1.36328, ..., 0.0338745, -0.479004, -0.148926]], dtype=float16), language='en', language_probs=None, tokens=[50364, 20932, 307, 4818, 13, 50432, 50468, 663, 311, 439, 337, 586, 13, 961, 311, 1066, 257, 1998, 3313, 322, 264, 4537, 13, 50600, 50680, 10611, 13, 492, 434, 516, 281, 483, 264, 19529, 1096, 322, 796, 13, 50820, 50864, 492, 603, 536, 796, 365, 264, 19529, 3542, 797, 13, 50964, 51184, 1911, 11, 3022, 13, 286, 478, 466, 281, 536, 42813, 47635, 293, 19190, 502, 797, 13, 51356, 51388, 1057, 264, 6921, 3542, 366, 294, 337, 3346, 424, 1797, 13, 51488, 51524], text="consultation is necessary. That's all for now. Let's keep a close eye on the patient. Subscribe. We're going to get the CT done on him. We'll see him with the CT results again. Hey, subscribe. I'm about to see Raymond Hole and Room 1 again. All the tests results are in for misra hold.", avg_logprob=-0.351651668548584, no_speech_prob=0.005135107319802046, temperature=0.0, compression_ratio=1.484375)
+timestamp_tokens: [ True False False False False  True  True False False False False False
+ False False False False False False False False False False False  True
+  True False False False False False False False False False False False
+ False False  True  True False False False False False False False False
+ False False  True  True False False False False False False False False
+ False False False False False False False False  True  True False False
+ False False False False False False False False False  True  True]
+single_timestamp_ending: False
+consecutive: [ 5 23 38 50 68 81]
+slices: [6, 24, 39, 51, 69, 82]
+slices: [6, 24, 39, 51, 69, 82]
+new_segment called
+new_segment called
+new_segment called
+new_segment called
+new_segment called
+new_segment called
+time_offset: 354.56
+window_end_time: 384.56
+segment_size: 3000
+(3000, 80)
+segment_duration: 30.0
+x.shape after conv1 & gelu: (1, 3000, 384)
+x.shape after conv2 & gelu: (1, 1500, 384)
+decoder called
+decoder called
+decoder called
+decoder called
+decoder called
+decoder called
+decoder called
+decoder called
+decoder called
+decoder called
+decoder called
+decoder called
+decoder called
+decoder called
+decoder called
+decoder called
+decoder called
+decoder called
+decoder called
+decoder called
+decoder called
+decoder called
+decoder called
+decoder called
+decoder called
+decoder called
+decoder called
+decoder called
+decoder called
+decoder called
+decoder called
+decoder called
+decoder called
+decoder called
+decoder called
+decoder called
+decoder called
+decoder called
+decoder called
+decoder called
+decoder called
+decoder called
+decoder called
+decoder called
+decoder called
+decoder called
+decoder called
+decoder called
+decoder called
+decoder called
+decoder called
+decoder called
+decoder called
+decoder called
+decoder called
+decoder called
+decoder called
+decoder called
+decoder called
+decoder called
+decoder called
+decoder called
+decoder called
+decoder called
+decoder called
+decoder called
+decoder called
+decoder called
+decoder called
+decoder called
+decoder called
+decoder called
+decoder called
+decoder called
+decoder called
+decoder called
+decoder called
+decoder called
+decoder called
+decoder called
+decoder called
+decoder called
+decoder called
+decoder called
+decoder called
+decoder called
+decoder called
+decoder called
+decoder called
+decoder called
+decoder called
+decoder called
+result: DecodingResult(audio_features=array([[0.241577, 0.394531, 0.12793, ..., -0.0723267, 0.0390015, -0.0976562],
+       [-0.70459, 4.27344, 0.319092, ..., 0.72998, 0.00247955, -0.224976],
+       [-1.54785, 5.70312, -0.133179, ..., 0.512695, 1.33398, -0.408691],
+       ...,
+       [0.871582, 3.51172, 0.922363, ..., 0.0368042, -0.204468, -1.71289],
+       [1.18262, -0.814941, 0.0704956, ..., -0.312256, -0.0742188, -0.666504],
+       [0.0624695, -0.0704346, -1.38672, ..., 0.018158, -0.487793, -0.120178]], dtype=float16), language='en', language_probs=None, tokens=[50400, 383, 7869, 11, 383, 12224, 11, 993, 10604, 11, 376, 11435, 311, 4358, 366, 439, 2710, 13, 50640, 50672, 19529, 11049, 1177, 380, 855, 604, 18087, 47104, 16110, 13, 50808, 50844, 19529, 11049, 412, 264, 36494, 293, 34617, 390, 7365, 412, 1649, 13, 3446, 257, 13, 76, 13, 51016, 51072, 37806, 12256, 293, 1183, 5412, 295, 264, 19529, 11049, 382, 10002, 13, 51216, 51268, 440, 5056, 1602, 38701, 20659, 293, 9227, 4204, 1951, 2710, 10406, 51512, 51512, 1553, 4467, 295, 24390, 3100, 1793, 420, 26592, 1512, 626, 13, 51712, 51788], text="CBC, CMP, life pays, MLA's levels are all normal. CT scan doesn't show any concerning abnormalities. CT scan at the abdomen and pelvis was completed at 8.30 a.m. Radiologists and prescient of the CT scan as follows. The visualized abdominal organs and structures appear within normal limits without evidence of acute pathology or focal lesions.", avg_logprob=-0.27846373682436737, no_speech_prob=0.05027064308524132, temperature=0.0, compression_ratio=1.4891774891774892)
+timestamp_tokens: [ True False False False False False False False False False False False
+ False False False False False False  True  True False False False False
+ False False False False False False  True  True False False False False
+ False False False False False False False False False False False False
+ False  True  True False False False False False False False False False
+ False False False  True  True False False False False False False False
+ False False False False  True  True False False False False False False
+ False False False False False  True  True]
+single_timestamp_ending: False
+consecutive: [18 30 49 63 76 89]
+slices: [19, 31, 50, 64, 77, 90]
+slices: [19, 31, 50, 64, 77, 90]
+new_segment called
+new_segment called
+new_segment called
+new_segment called
+new_segment called
+new_segment called
+time_offset: 381.52
+window_end_time: 411.52
+segment_size: 3000
+(3000, 80)
+segment_duration: 30.0
+x.shape after conv1 & gelu: (1, 3000, 384)
+x.shape after conv2 & gelu: (1, 1500, 384)
+decoder called
+decoder called
+decoder called
+decoder called
+decoder called
+decoder called
+decoder called
+decoder called
+decoder called
+decoder called
+decoder called
+decoder called
+decoder called
+decoder called
+decoder called
+decoder called
+decoder called
+decoder called
+decoder called
+decoder called
+decoder called
+decoder called
+decoder called
+decoder called
+decoder called
+decoder called
+decoder called
+decoder called
+decoder called
+decoder called
+decoder called
+decoder called
+decoder called
+decoder called
+decoder called
+decoder called
+decoder called
+decoder called
+decoder called
+decoder called
+decoder called
+decoder called
+decoder called
+decoder called
+decoder called
+decoder called
+decoder called
+decoder called
+decoder called
+decoder called
+decoder called
+decoder called
+decoder called
+decoder called
+decoder called
+decoder called
+decoder called
+decoder called
+decoder called
+decoder called
+decoder called
+decoder called
+decoder called
+decoder called
+decoder called
+decoder called
+decoder called
+decoder called
+decoder called
+decoder called
+decoder called
+decoder called
+decoder called
+decoder called
+decoder called
+decoder called
+decoder called
+decoder called
+decoder called
+decoder called
+decoder called
+decoder called
+decoder called
+decoder called
+result: DecodingResult(audio_features=array([[0.104126, 0.0928345, 0.0181427, ..., -0.0169373, 0.0589294, -0.128662],
+       [-0.36499, -2.10742, -0.897949, ..., 0.297852, 1.30957, -1.84668],
+       [-0.137329, -1.26465, -1.16895, ..., 0.000609398, 0.907227, -1.18555],
+       ...,
+       [1.66992, -0.0700684, 0.403076, ..., 1.06152, 1.70703, 0.222656],
+       [1.23633, -1.20508, 0.179077, ..., -0.166748, -0.00682068, -0.580078],
+       [0.0245819, -0.0939331, -1.43262, ..., -0.0116348, -0.522461, -0.181274]], dtype=float16), language='en', language_probs=None, tokens=[50384, 440, 4038, 2071, 4642, 307, 611, 517, 2579, 809, 712, 13, 50564, 50624, 467, 2544, 300, 456, 307, 572, 3156, 2734, 13, 50712, 50760, 8789, 4535, 8211, 337, 341, 472, 11, 291, 393, 445, 829, 257, 38701, 1822, 294, 364, 382, 1641, 13, 51000, 51052, 286, 603, 445, 49292, 796, 2698, 12, 4257, 337, 264, 34735, 64, 13, 51160, 51204, 440, 2027, 15217, 5974, 51284, 51328, 10839, 1822, 490, 661, 20659, 11, 11745, 17898, 340, 686, 377, 2071, 20261, 11, 51552, 51592], text="The urinalysis is also unremarkable. It seems that there is no serious issue. Diagnosis for this one, you can just put a abdominal pain in an asha. I'll just prescribe him self-ran for the nausea. The future diagnosis includes referred pain from other organs, functional gastrointestinal disorders,", avg_logprob=-0.3498090789431617, no_speech_prob=0.006897853687405586, temperature=0.0, compression_ratio=1.5204081632653061)
+timestamp_tokens: [ True False False False False False False False False False False False
+  True  True False False False False False False False False False  True
+  True False False False False False False False False False False False
+ False False False False False False False False  True  True False False
+ False False False False False False False False False False False  True
+  True False False False False  True  True False False False False False
+ False False False False False False False False False  True  True]
+single_timestamp_ending: False
+consecutive: [12 23 44 59 65 81]
+slices: [13, 24, 45, 60, 66, 82]
+slices: [13, 24, 45, 60, 66, 82]
+new_segment called
+new_segment called
+new_segment called
+new_segment called
+new_segment called
+new_segment called
+time_offset: 405.28
+window_end_time: 435.28
+segment_size: 3000
+(3000, 80)
+segment_duration: 30.0
+x.shape after conv1 & gelu: (1, 3000, 384)
+x.shape after conv2 & gelu: (1, 1500, 384)
+decoder called
+decoder called
+decoder called
+decoder called
+decoder called
+decoder called
+decoder called
+decoder called
+decoder called
+decoder called
+decoder called
+decoder called
+decoder called
+decoder called
+decoder called
+decoder called
+decoder called
+decoder called
+decoder called
+decoder called
+decoder called
+decoder called
+decoder called
+decoder called
+decoder called
+decoder called
+decoder called
+decoder called
+decoder called
+decoder called
+decoder called
+decoder called
+decoder called
+decoder called
+decoder called
+decoder called
+decoder called
+decoder called
+decoder called
+decoder called
+decoder called
+decoder called
+decoder called
+decoder called
+decoder called
+decoder called
+decoder called
+decoder called
+decoder called
+decoder called
+decoder called
+decoder called
+decoder called
+decoder called
+decoder called
+decoder called
+decoder called
+decoder called
+decoder called
+decoder called
+decoder called
+decoder called
+decoder called
+decoder called
+decoder called
+decoder called
+decoder called
+decoder called
+decoder called
+decoder called
+decoder called
+decoder called
+decoder called
+decoder called
+decoder called
+decoder called
+decoder called
+decoder called
+decoder called
+decoder called
+decoder called
+decoder called
+decoder called
+decoder called
+decoder called
+decoder called
+decoder called
+decoder called
+decoder called
+decoder called
+decoder called
+decoder called
+decoder called
+decoder called
+decoder called
+decoder called
+decoder called
+decoder called
+decoder called
+decoder called
+decoder called
+decoder called
+decoder called
+decoder called
+decoder called
+decoder called
+decoder called
+decoder called
+decoder called
+decoder called
+decoder called
+decoder called
+decoder called
+decoder called
+decoder called
+decoder called
+result: DecodingResult(audio_features=array([[0.189331, 0.189453, 0.09021, ..., -0.0856323, 0.00380898, -0.128662],
+       [-0.442139, 0.0071907, -0.101868, ..., 1.20801, -0.811523, -1.19434],
+       [0.0196686, -1.26465, 0.359131, ..., -0.0333862, 0.396484, -0.356201],
+       ...,
+       [-0.465332, 0.158569, 1.32812, ..., 1.56738, 0.424316, -1.49219],
+       [1.21094, -0.812012, 0.297607, ..., -0.29126, -0.0294037, -0.607422],
+       [0.017807, -0.11676, -1.39648, ..., -0.00871277, -0.541504, -0.1875]], dtype=float16), language='en', language_probs=None, tokens=[50408, 14884, 78, 12, 18882, 340, 16074, 11, 293, 31641, 32321, 304, 1822, 13, 50560, 50588, 4379, 2448, 486, 1524, 309, 365, 6465, 47, 1951, 257, 1243, 13, 50692, 50832, 2205, 2583, 11, 2221, 13, 47635, 13, 50880, 50920, 1057, 428, 6921, 1361, 646, 2710, 13, 51008, 51020, 467, 311, 1944, 300, 264, 1822, 727, 312, 3462, 281, 2806, 372, 449, 3508, 8340, 420, 746, 2531, 13, 51224, 51260, 286, 603, 49292, 385, 512, 370, 12, 5540, 337, 34735, 64, 10915, 13, 51376, 51404, 759, 264, 1822, 868, 1751, 420, 47567, 694, 11, 1524, 493, 365, 428, 6194, 1127, 4631, 13, 51612, 51668, 286, 603, 1309, 8387, 13, 286, 478, 370, 5804, 13, 51776, 51804], text="custo-condroitis, and muscular skeletal pain. Patients will follow it with PCP within a week. Good news, Mr. Hole. All your tests came back normal. It's possible that the pain could be due to malstummit upset or something similar. I'll prescribe me some so-friend for nausea relief. If the pain persists or worsens, follow up with your primary care doctor. I'll thank goodness. I'm so worried.", avg_logprob=-0.3102465004756533, no_speech_prob=0.0037601746153086424, temperature=0.0, compression_ratio=1.547244094488189)
+timestamp_tokens: [ True False False False False False False False False False False False
+ False False  True  True False False False False False False False False
+ False False False False  True  True False False False False False False
+ False  True  True False False False False False False False  True  True
+ False False False False False False False False False False False False
+ False False False False False False False  True  True False False False
+ False False False False False False False False False False  True  True
+ False False False False False False False False False False False False
+ False False False False False  True  True False False False False False
+ False False False False False  True  True]
+single_timestamp_ending: False
+consecutive: [ 14  28  37  46  67  82 101 113]
+slices: [15, 29, 38, 47, 68, 83, 102, 114]
+slices: [15, 29, 38, 47, 68, 83, 102, 114]
+new_segment called
+new_segment called
+new_segment called
+new_segment called
+new_segment called
+new_segment called
+new_segment called
+new_segment called
+time_offset: 433.52
+window_end_time: 463.52
+segment_size: 1824
+(1824, 80)
+segment_duration: 18.24
+x.shape after conv1 & gelu: (1, 3000, 384)
+x.shape after conv2 & gelu: (1, 1500, 384)
+decoder called
+decoder called
+decoder called
+decoder called
+decoder called
+decoder called
+decoder called
+decoder called
+decoder called
+decoder called
+decoder called
+decoder called
+decoder called
+decoder called
+decoder called
+decoder called
+decoder called
+decoder called
+decoder called
+decoder called
+decoder called
+decoder called
+decoder called
+decoder called
+decoder called
+decoder called
+decoder called
+decoder called
+decoder called
+decoder called
+decoder called
+decoder called
+decoder called
+decoder called
+decoder called
+decoder called
+decoder called
+decoder called
+decoder called
+decoder called
+decoder called
+decoder called
+decoder called
+decoder called
+decoder called
+decoder called
+decoder called
+decoder called
+decoder called
+decoder called
+decoder called
+decoder called
+decoder called
+decoder called
+decoder called
+decoder called
+decoder called
+decoder called
+decoder called
+decoder called
+decoder called
+decoder called
+decoder called
+decoder called
+decoder called
+decoder called
+result: DecodingResult(audio_features=array([[0.192139, 0.154663, 0.0211792, ..., -0.133301, 0.0170898, -0.111328],
+       [0.166382, 1.68945, 0.137451, ..., 1.47949, -0.052002, -1.26953],
+       [0.0108871, 0.644043, 0.644531, ..., 0.526367, -0.344971, -0.572266],
+       ...,
+       [0.774902, -1.6543, 1.05762, ..., -0.93457, 0.603516, 0.601074],
+       [0.555664, -1.88965, 0.324463, ..., -0.345703, 0.0117798, 0.622559],
+       [0.117249, -0.166138, -1.43066, ..., -0.00140095, -0.532227, -0.217773]], dtype=float16), language='en', language_probs=None, tokens=[50388, 286, 2584, 1223, 13, 759, 291, 362, 604, 7389, 420, 498, 264, 1822, 868, 1751, 11, 50656, 50656, 500, 380, 20842, 281, 2524, 484, 293, 8075, 4625, 3202, 13, 50804, 50832, 10328, 11, 286, 2748, 1472, 293, 43631, 13, 50968, 51000, 4387, 988, 281, 1524, 493, 365, 428, 6465, 47, 294, 257, 1243, 13, 51132, 51132, 509, 434, 1737, 281, 352, 586, 13, 51232], text="I completely understand. If you have any concerns or if the pain persists, don't hesitate to reach out and seek medical attention. Otherwise, I recommend rest and hydration. Make sure to follow up with your PCP in a week. You're free to go now.", avg_logprob=-0.2115518685543176, no_speech_prob=0.00358992419205606, temperature=0.0, compression_ratio=1.4022988505747127)
+timestamp_tokens: [ True False False False False False False False False False False False
+ False False False False False  True  True False False False False False
+ False False False False False False  True  True False False False False
+ False False False False  True  True False False False False False False
+ False False False False False False False  True  True False False False
+ False False False False  True]
+single_timestamp_ending: True
+consecutive: [17 30 40 55]
+slices: [18, 31, 41, 56]
+slices: [18, 31, 41, 56, 65]
+new_segment called
+new_segment called
+new_segment called
+new_segment called
+new_segment called
+seek: 43352
+seek: 45176
+{'text': " Mornings, Grat. We're going to get started for today. We're going to go see Mr. Raymond Hole in room 1. Who's here for abdominal pain? Hello, Mr. Hole. I'm Dr. Perotta. What brings you to the emergency department today? Hello, Dr. Perotta. I'm in an experiencing some really intense abdominal pain and it's been bothering me for the past couple of days. It started on my right side but now it's kind of all over. It thought it would be best to get a check down. All right. Let's stop a bit deeper. On a scale of 1.10, how would you rate the pain? I'd say about 6 or 7. I'm sorry to hear that you're in pain, Mr. Hole. Let's try to figure out what's going on. Can you describe the pain for me? Is it sharp, achy or dull? It's more of a sharp pain. It's located in my lower abdomen, kind of on the right side. I know you mentioned the pain started on the right side but it's since moved around. Has the pain stayed in one place since or is it still moving around the abdomen? It's gone back to the original position. Is it a constant ache or does it come and go? It comes and goes. Okay. Thank you for sharing that. Have you noticed any other symptoms along with the pain, such as nausea, vomiting, changes in bowel habits? I haven't thrown up but I haven't feeling a bit nauseous. No significant changes in the bowel habits either. Any fever? I don't think I have a fever. Have you had any recent changes in your diet or any new medications? No, nothing has changed. I haven't taken any new medications and my diet has been pre-consistent. Have you noticed if anything makes the pain better or worse? For example, does eating or changing position affect it? It doesn't seem to be related to eating but moving around does make your worse. It's more comfortable when I'm lying still. Any recent injuries or illnesses? No, that's how I can think of. This just came on suddenly. Any history of similar pain in the past? Any surgeries in that area? No, this is the first time I've experienced this kind of pain and no surgeries. I'll perform with Piscuit exam to get a better idea. Please slide back and I'll check your abdomen. Hey, Scarib. I need a document to Piscuit exam finding says I'll call them out. I'll start by checking your abdomen. Any tenorness or pain when I press here? Yeah, it hurts more on the right side. I see. So tenorness and the right lower quadrant. I'll also listen to your abdomen with the stats of scob. Just breathe normally for me. Bowsounds are present. Oh, yeah, that hurts when you let go. Okay, I've noted that. I'll also perform a few more examinations and then we'll discuss our plan. Okay, I'm done with the Fiscal exam. Aside from the right lower quadrant tenderness, everything else seems normal on my end. I'll order some tests to get a clear picture. I'll do some blood work and a CT scan to rule out any serious issues. In the meantime, we'll also get a urine sample. Okay, sounds good. I'm a bit worried though. I understand and we'll do our best to figure out what's going on. Hey, subscribe. Again for the Fiscal exam. Applement is tenderness or unpopation, especially in the right lower quadrant. Rebound tenderness present. Bowsounds are normal. No guarding noted. Patient reports pain at an eight out of ten. Notestention or mass is palpated. I'll order a CBC, CMP, lipase, amylase, and a CT scan of the abdomen and pelvis with the IV contrast. Also, obtain a urine sample for analysis. Mr. Hope, we need to rest some tests to get a better idea for what might be causing your pain. We'll start with some blood testing and imaging studies. In the meantime, I'll prescribe something for the pain to make you more comfortable. Okay, thank you. I just want to figure out what's going on. Absolutely. We'll do our best to identify the cause. I'll also extend our suicide up the test and look at the process started. Is there anything else you think I should know about your symptoms or medical history? I can't think of anything else at the moment. I appreciate your help Dr. Braldo. You're welcome. Let's get those tests done and we'll go from there. If the pain worsens or if you notice any concerning changes before we get the results, don't hesitate to push your call button. Nurse Perez. Let's start the patient on IV fluids and administer four milligrams of morphine for pain control. Once the results are back, we'll reassess and determine if surgical consultation is necessary. That's all for now. Let's keep a close eye on the patient. Subscribe. We're going to get the CT done on him. We'll see him with the CT results again. Hey, subscribe. I'm about to see Raymond Hole and Room 1 again. All the tests results are in for misra hold. CBC, CMP, life pays, MLA's levels are all normal. CT scan doesn't show any concerning abnormalities. CT scan at the abdomen and pelvis was completed at 8.30 a.m. Radiologists and prescient of the CT scan as follows. The visualized abdominal organs and structures appear within normal limits without evidence of acute pathology or focal lesions. The urinalysis is also unremarkable. It seems that there is no serious issue. Diagnosis for this one, you can just put a abdominal pain in an asha. I'll just prescribe him self-ran for the nausea. The future diagnosis includes referred pain from other organs, functional gastrointestinal disorders, custo-condroitis, and muscular skeletal pain. Patients will follow it with PCP within a week. Good news, Mr. Hole. All your tests came back normal. It's possible that the pain could be due to malstummit upset or something similar. I'll prescribe me some so-friend for nausea relief. If the pain persists or worsens, follow up with your primary care doctor. I'll thank goodness. I'm so worried. I completely understand. If you have any concerns or if the pain persists, don't hesitate to reach out and seek medical attention. Otherwise, I recommend rest and hydration. Make sure to follow up with your PCP in a week. You're free to go now.", 'segments': [{'id': 0, 'seek': 0, 'start': 0.0, 'end': 5.44, 'text': " Mornings, Grat. We're going to get started for today. We're going to go see Mr. Raymond", 'tokens': [50364, 17967, 82, 11, 2606, 267, 13, 492, 434, 516, 281, 483, 1409, 337, 965, 13, 492, 434, 516, 281, 352, 536, 2221, 13, 42813, 50636], 'temperature': 0.0, 'avg_logprob': -0.40554235707158626, 'compression_ratio': 1.6680161943319838, 'no_speech_prob': 0.2056533247232437}, {'id': 1, 'seek': 0, 'start': 5.44, 'end': 8.44, 'text': " Hole in room 1. Who's here for abdominal pain?", 'tokens': [50636, 47635, 294, 1808, 502, 13, 2102, 311, 510, 337, 38701, 1822, 30, 50786], 'temperature': 0.0, 'avg_logprob': -0.40554235707158626, 'compression_ratio': 1.6680161943319838, 'no_speech_prob': 0.2056533247232437}, {'id': 2, 'seek': 0, 'start': 8.44, 'end': 16.44, 'text': " Hello, Mr. Hole. I'm Dr. Perotta. What brings you to the emergency department today?", 'tokens': [50786, 2425, 11, 2221, 13, 47635, 13, 286, 478, 2491, 13, 3026, 22967, 13, 708, 5607, 291, 281, 264, 7473, 5882, 965, 30, 51186], 'temperature': 0.0, 'avg_logprob': -0.40554235707158626, 'compression_ratio': 1.6680161943319838, 'no_speech_prob': 0.2056533247232437}, {'id': 3, 'seek': 0, 'start': 16.44, 'end': 22.88, 'text': " Hello, Dr. Perotta. I'm in an experiencing some really intense abdominal pain and it's been bothering", 'tokens': [51186, 2425, 11, 2491, 13, 3026, 22967, 13, 286, 478, 294, 364, 11139, 512, 534, 9447, 38701, 1822, 293, 309, 311, 668, 31432, 51508], 'temperature': 0.0, 'avg_logprob': -0.40554235707158626, 'compression_ratio': 1.6680161943319838, 'no_speech_prob': 0.2056533247232437}, {'id': 4, 'seek': 0, 'start': 22.88, 'end': 28.32, 'text': " me for the past couple of days. It started on my right side but now it's kind of all over.", 'tokens': [51508, 385, 337, 264, 1791, 1916, 295, 1708, 13, 467, 1409, 322, 452, 558, 1252, 457, 586, 309, 311, 733, 295, 439, 670, 13, 51780], 'temperature': 0.0, 'avg_logprob': -0.40554235707158626, 'compression_ratio': 1.6680161943319838, 'no_speech_prob': 0.2056533247232437}, {'id': 5, 'seek': 2832, 'start': 28.56, 'end': 30.92, 'text': ' It thought it would be best to get a check down.', 'tokens': [50376, 467, 1194, 309, 576, 312, 1151, 281, 483, 257, 1520, 760, 13, 50494], 'temperature': 0.0, 'avg_logprob': -0.2785402526855469, 'compression_ratio': 1.5573122529644268, 'no_speech_prob': 0.009258107282221317}, {'id': 6, 'seek': 2832, 'start': 30.92, 'end': 37.6, 'text': " All right. Let's stop a bit deeper. On a scale of 1.10, how would you rate the pain?", 'tokens': [50494, 1057, 558, 13, 961, 311, 1590, 257, 857, 7731, 13, 1282, 257, 4373, 295, 502, 13, 3279, 11, 577, 576, 291, 3314, 264, 1822, 30, 50828], 'temperature': 0.0, 'avg_logprob': -0.2785402526855469, 'compression_ratio': 1.5573122529644268, 'no_speech_prob': 0.009258107282221317}, {'id': 7, 'seek': 2832, 'start': 37.6, 'end': 40.64, 'text': " I'd say about 6 or 7.", 'tokens': [50828, 286, 1116, 584, 466, 1386, 420, 1614, 13, 50980], 'temperature': 0.0, 'avg_logprob': -0.2785402526855469, 'compression_ratio': 1.5573122529644268, 'no_speech_prob': 0.009258107282221317}, {'id': 8, 'seek': 2832, 'start': 40.64, 'end': 45.92, 'text': " I'm sorry to hear that you're in pain, Mr. Hole. Let's try to figure out what's going on. Can you", 'tokens': [50980, 286, 478, 2597, 281, 1568, 300, 291, 434, 294, 1822, 11, 2221, 13, 47635, 13, 961, 311, 853, 281, 2573, 484, 437, 311, 516, 322, 13, 1664, 291, 51244], 'temperature': 0.0, 'avg_logprob': -0.2785402526855469, 'compression_ratio': 1.5573122529644268, 'no_speech_prob': 0.009258107282221317}, {'id': 9, 'seek': 2832, 'start': 45.92, 'end': 50.879999999999995, 'text': ' describe the pain for me? Is it sharp, achy or dull?', 'tokens': [51244, 6786, 264, 1822, 337, 385, 30, 1119, 309, 8199, 11, 2800, 88, 420, 23471, 30, 51492], 'temperature': 0.0, 'avg_logprob': -0.2785402526855469, 'compression_ratio': 1.5573122529644268, 'no_speech_prob': 0.009258107282221317}, {'id': 10, 'seek': 2832, 'start': 50.879999999999995, 'end': 57.04, 'text': " It's more of a sharp pain. It's located in my lower abdomen, kind of on the right side.", 'tokens': [51492, 467, 311, 544, 295, 257, 8199, 1822, 13, 467, 311, 6870, 294, 452, 3126, 36494, 11, 733, 295, 322, 264, 558, 1252, 13, 51800], 'temperature': 0.0, 'avg_logprob': -0.2785402526855469, 'compression_ratio': 1.5573122529644268, 'no_speech_prob': 0.009258107282221317}, {'id': 11, 'seek': 5704, 'start': 57.04, 'end': 62.08, 'text': " I know you mentioned the pain started on the right side but it's since moved around.", 'tokens': [50364, 286, 458, 291, 2835, 264, 1822, 1409, 322, 264, 558, 1252, 457, 309, 311, 1670, 4259, 926, 13, 50616], 'temperature': 0.0, 'avg_logprob': -0.1712936247238005, 'compression_ratio': 1.6434782608695653, 'no_speech_prob': 0.0007318558054976165}, {'id': 12, 'seek': 5704, 'start': 62.08, 'end': 67.84, 'text': ' Has the pain stayed in one place since or is it still moving around the abdomen?', 'tokens': [50616, 8646, 264, 1822, 9181, 294, 472, 1081, 1670, 420, 307, 309, 920, 2684, 926, 264, 36494, 30, 50904], 'temperature': 0.0, 'avg_logprob': -0.1712936247238005, 'compression_ratio': 1.6434782608695653, 'no_speech_prob': 0.0007318558054976165}, {'id': 13, 'seek': 5704, 'start': 67.84, 'end': 70.88, 'text': " It's gone back to the original position.", 'tokens': [50904, 467, 311, 2780, 646, 281, 264, 3380, 2535, 13, 51056], 'temperature': 0.0, 'avg_logprob': -0.1712936247238005, 'compression_ratio': 1.6434782608695653, 'no_speech_prob': 0.0007318558054976165}, {'id': 14, 'seek': 5704, 'start': 70.88, 'end': 74.4, 'text': ' Is it a constant ache or does it come and go?', 'tokens': [51056, 1119, 309, 257, 5754, 29677, 420, 775, 309, 808, 293, 352, 30, 51232], 'temperature': 0.0, 'avg_logprob': -0.1712936247238005, 'compression_ratio': 1.6434782608695653, 'no_speech_prob': 0.0007318558054976165}, {'id': 15, 'seek': 5704, 'start': 74.4, 'end': 78.72, 'text': ' It comes and goes. Okay. Thank you for sharing that.', 'tokens': [51232, 467, 1487, 293, 1709, 13, 1033, 13, 1044, 291, 337, 5414, 300, 13, 51448], 'temperature': 0.0, 'avg_logprob': -0.1712936247238005, 'compression_ratio': 1.6434782608695653, 'no_speech_prob': 0.0007318558054976165}, {'id': 16, 'seek': 5704, 'start': 78.72, 'end': 83.36, 'text': ' Have you noticed any other symptoms along with the pain, such as nausea,', 'tokens': [51448, 3560, 291, 5694, 604, 661, 8332, 2051, 365, 264, 1822, 11, 1270, 382, 34735, 64, 11, 51680], 'temperature': 0.0, 'avg_logprob': -0.1712936247238005, 'compression_ratio': 1.6434782608695653, 'no_speech_prob': 0.0007318558054976165}, {'id': 17, 'seek': 8336, 'start': 83.36, 'end': 86.64, 'text': ' vomiting, changes in bowel habits?', 'tokens': [50364, 46234, 11, 2962, 294, 40094, 14100, 30, 50528], 'temperature': 0.0, 'avg_logprob': -0.18471976121266684, 'compression_ratio': 1.781725888324873, 'no_speech_prob': 0.010156492702662945}, {'id': 18, 'seek': 8336, 'start': 86.64, 'end': 90.48, 'text': " I haven't thrown up but I haven't feeling a bit nauseous.", 'tokens': [50528, 286, 2378, 380, 11732, 493, 457, 286, 2378, 380, 2633, 257, 857, 34735, 563, 13, 50720], 'temperature': 0.0, 'avg_logprob': -0.18471976121266684, 'compression_ratio': 1.781725888324873, 'no_speech_prob': 0.010156492702662945}, {'id': 19, 'seek': 8336, 'start': 90.48, 'end': 94.24, 'text': ' No significant changes in the bowel habits either.', 'tokens': [50720, 883, 4776, 2962, 294, 264, 40094, 14100, 2139, 13, 50908], 'temperature': 0.0, 'avg_logprob': -0.18471976121266684, 'compression_ratio': 1.781725888324873, 'no_speech_prob': 0.010156492702662945}, {'id': 20, 'seek': 8336, 'start': 94.24, 'end': 96.4, 'text': ' Any fever?', 'tokens': [50908, 2639, 18277, 30, 51016], 'temperature': 0.0, 'avg_logprob': -0.18471976121266684, 'compression_ratio': 1.781725888324873, 'no_speech_prob': 0.010156492702662945}, {'id': 21, 'seek': 8336, 'start': 96.4, 'end': 98.88, 'text': " I don't think I have a fever.", 'tokens': [51016, 286, 500, 380, 519, 286, 362, 257, 18277, 13, 51140], 'temperature': 0.0, 'avg_logprob': -0.18471976121266684, 'compression_ratio': 1.781725888324873, 'no_speech_prob': 0.010156492702662945}, {'id': 22, 'seek': 8336, 'start': 98.88, 'end': 103.68, 'text': ' Have you had any recent changes in your diet or any new medications?', 'tokens': [51140, 3560, 291, 632, 604, 5162, 2962, 294, 428, 6339, 420, 604, 777, 17504, 30, 51380], 'temperature': 0.0, 'avg_logprob': -0.18471976121266684, 'compression_ratio': 1.781725888324873, 'no_speech_prob': 0.010156492702662945}, {'id': 23, 'seek': 8336, 'start': 103.68, 'end': 110.4, 'text': " No, nothing has changed. I haven't taken any new medications and my diet has been pre-consistent.", 'tokens': [51380, 883, 11, 1825, 575, 3105, 13, 286, 2378, 380, 2726, 604, 777, 17504, 293, 452, 6339, 575, 668, 659, 12, 21190, 25367, 13, 51716], 'temperature': 0.0, 'avg_logprob': -0.18471976121266684, 'compression_ratio': 1.781725888324873, 'no_speech_prob': 0.010156492702662945}, {'id': 24, 'seek': 11040, 'start': 111.36, 'end': 114.48, 'text': ' Have you noticed if anything makes the pain better or worse?', 'tokens': [50412, 3560, 291, 5694, 498, 1340, 1669, 264, 1822, 1101, 420, 5324, 30, 50568], 'temperature': 0.0, 'avg_logprob': -0.1938429778476931, 'compression_ratio': 1.562015503875969, 'no_speech_prob': 0.009548250585794449}, {'id': 25, 'seek': 11040, 'start': 114.48, 'end': 117.76, 'text': ' For example, does eating or changing position affect it?', 'tokens': [50568, 1171, 1365, 11, 775, 3936, 420, 4473, 2535, 3345, 309, 30, 50732], 'temperature': 0.0, 'avg_logprob': -0.1938429778476931, 'compression_ratio': 1.562015503875969, 'no_speech_prob': 0.009548250585794449}, {'id': 26, 'seek': 11040, 'start': 119.2, 'end': 123.60000000000001, 'text': " It doesn't seem to be related to eating but moving around does make your worse.", 'tokens': [50804, 467, 1177, 380, 1643, 281, 312, 4077, 281, 3936, 457, 2684, 926, 775, 652, 428, 5324, 13, 51024], 'temperature': 0.0, 'avg_logprob': -0.1938429778476931, 'compression_ratio': 1.562015503875969, 'no_speech_prob': 0.009548250585794449}, {'id': 27, 'seek': 11040, 'start': 123.60000000000001, 'end': 125.28, 'text': " It's more comfortable when I'm lying still.", 'tokens': [51024, 467, 311, 544, 4619, 562, 286, 478, 8493, 920, 13, 51108], 'temperature': 0.0, 'avg_logprob': -0.1938429778476931, 'compression_ratio': 1.562015503875969, 'no_speech_prob': 0.009548250585794449}, {'id': 28, 'seek': 11040, 'start': 126.80000000000001, 'end': 128.88, 'text': ' Any recent injuries or illnesses?', 'tokens': [51184, 2639, 5162, 14799, 420, 30791, 30, 51288], 'temperature': 0.0, 'avg_logprob': -0.1938429778476931, 'compression_ratio': 1.562015503875969, 'no_speech_prob': 0.009548250585794449}, {'id': 29, 'seek': 11040, 'start': 130.24, 'end': 132.4, 'text': " No, that's how I can think of.", 'tokens': [51356, 883, 11, 300, 311, 577, 286, 393, 519, 295, 13, 51464], 'temperature': 0.0, 'avg_logprob': -0.1938429778476931, 'compression_ratio': 1.562015503875969, 'no_speech_prob': 0.009548250585794449}, {'id': 30, 'seek': 11040, 'start': 132.4, 'end': 133.68, 'text': ' This just came on suddenly.', 'tokens': [51464, 639, 445, 1361, 322, 5800, 13, 51528], 'temperature': 0.0, 'avg_logprob': -0.1938429778476931, 'compression_ratio': 1.562015503875969, 'no_speech_prob': 0.009548250585794449}, {'id': 31, 'seek': 11040, 'start': 134.88, 'end': 137.6, 'text': ' Any history of similar pain in the past?', 'tokens': [51588, 2639, 2503, 295, 2531, 1822, 294, 264, 1791, 30, 51724], 'temperature': 0.0, 'avg_logprob': -0.1938429778476931, 'compression_ratio': 1.562015503875969, 'no_speech_prob': 0.009548250585794449}, {'id': 32, 'seek': 11040, 'start': 137.6, 'end': 139.12, 'text': ' Any surgeries in that area?', 'tokens': [51724, 2639, 33455, 294, 300, 1859, 30, 51800], 'temperature': 0.0, 'avg_logprob': -0.1938429778476931, 'compression_ratio': 1.562015503875969, 'no_speech_prob': 0.009548250585794449}, {'id': 33, 'seek': 14040, 'start': 140.4, 'end': 144.64000000000001, 'text': " No, this is the first time I've experienced this kind of pain and no surgeries.", 'tokens': [50364, 883, 11, 341, 307, 264, 700, 565, 286, 600, 6751, 341, 733, 295, 1822, 293, 572, 33455, 13, 50576], 'temperature': 0.0, 'avg_logprob': -0.3608409740306713, 'compression_ratio': 1.5798319327731092, 'no_speech_prob': 0.007805024739354849}, {'id': 34, 'seek': 14040, 'start': 146.72, 'end': 149.76, 'text': " I'll perform with Piscuit exam to get a better idea.", 'tokens': [50680, 286, 603, 2042, 365, 430, 5606, 1983, 1139, 281, 483, 257, 1101, 1558, 13, 50832], 'temperature': 0.0, 'avg_logprob': -0.3608409740306713, 'compression_ratio': 1.5798319327731092, 'no_speech_prob': 0.007805024739354849}, {'id': 35, 'seek': 14040, 'start': 149.76, 'end': 152.0, 'text': " Please slide back and I'll check your abdomen.", 'tokens': [50832, 2555, 4137, 646, 293, 286, 603, 1520, 428, 36494, 13, 50944], 'temperature': 0.0, 'avg_logprob': -0.3608409740306713, 'compression_ratio': 1.5798319327731092, 'no_speech_prob': 0.007805024739354849}, {'id': 36, 'seek': 14040, 'start': 154.32, 'end': 158.48000000000002, 'text': " Hey, Scarib. I need a document to Piscuit exam finding says I'll call them out.", 'tokens': [51060, 1911, 11, 23181, 897, 13, 286, 643, 257, 4166, 281, 430, 5606, 1983, 1139, 5006, 1619, 286, 603, 818, 552, 484, 13, 51268], 'temperature': 0.0, 'avg_logprob': -0.3608409740306713, 'compression_ratio': 1.5798319327731092, 'no_speech_prob': 0.007805024739354849}, {'id': 37, 'seek': 14040, 'start': 160.72, 'end': 162.4, 'text': " I'll start by checking your abdomen.", 'tokens': [51380, 286, 603, 722, 538, 8568, 428, 36494, 13, 51464], 'temperature': 0.0, 'avg_logprob': -0.3608409740306713, 'compression_ratio': 1.5798319327731092, 'no_speech_prob': 0.007805024739354849}, {'id': 38, 'seek': 14040, 'start': 164.24, 'end': 166.24, 'text': ' Any tenorness or pain when I press here?', 'tokens': [51556, 2639, 2064, 284, 1287, 420, 1822, 562, 286, 1886, 510, 30, 51656], 'temperature': 0.0, 'avg_logprob': -0.3608409740306713, 'compression_ratio': 1.5798319327731092, 'no_speech_prob': 0.007805024739354849}, {'id': 39, 'seek': 14040, 'start': 167.84, 'end': 169.6, 'text': ' Yeah, it hurts more on the right side.', 'tokens': [51736, 865, 11, 309, 11051, 544, 322, 264, 558, 1252, 13, 51824], 'temperature': 0.0, 'avg_logprob': -0.3608409740306713, 'compression_ratio': 1.5798319327731092, 'no_speech_prob': 0.007805024739354849}, {'id': 40, 'seek': 17040, 'start': 170.4, 'end': 171.04, 'text': ' I see.', 'tokens': [50364, 286, 536, 13, 50396], 'temperature': 0.0, 'avg_logprob': -0.31871866143268085, 'compression_ratio': 1.4676616915422886, 'no_speech_prob': 0.0004875199811067432}, {'id': 41, 'seek': 17040, 'start': 171.92000000000002, 'end': 174.08, 'text': ' So tenorness and the right lower quadrant.', 'tokens': [50440, 407, 2064, 284, 1287, 293, 264, 558, 3126, 46856, 13, 50548], 'temperature': 0.0, 'avg_logprob': -0.31871866143268085, 'compression_ratio': 1.4676616915422886, 'no_speech_prob': 0.0004875199811067432}, {'id': 42, 'seek': 17040, 'start': 174.8, 'end': 177.44, 'text': " I'll also listen to your abdomen with the stats of scob.", 'tokens': [50584, 286, 603, 611, 2140, 281, 428, 36494, 365, 264, 18152, 295, 795, 996, 13, 50716], 'temperature': 0.0, 'avg_logprob': -0.31871866143268085, 'compression_ratio': 1.4676616915422886, 'no_speech_prob': 0.0004875199811067432}, {'id': 43, 'seek': 17040, 'start': 177.44, 'end': 179.20000000000002, 'text': ' Just breathe normally for me.', 'tokens': [50716, 1449, 10192, 5646, 337, 385, 13, 50804], 'temperature': 0.0, 'avg_logprob': -0.31871866143268085, 'compression_ratio': 1.4676616915422886, 'no_speech_prob': 0.0004875199811067432}, {'id': 44, 'seek': 17040, 'start': 181.84, 'end': 183.28, 'text': ' Bowsounds are present.', 'tokens': [50936, 363, 1509, 4432, 366, 1974, 13, 51008], 'temperature': 0.0, 'avg_logprob': -0.31871866143268085, 'compression_ratio': 1.4676616915422886, 'no_speech_prob': 0.0004875199811067432}, {'id': 45, 'seek': 17040, 'start': 186.96, 'end': 189.12, 'text': ' Oh, yeah, that hurts when you let go.', 'tokens': [51192, 876, 11, 1338, 11, 300, 11051, 562, 291, 718, 352, 13, 51300], 'temperature': 0.0, 'avg_logprob': -0.31871866143268085, 'compression_ratio': 1.4676616915422886, 'no_speech_prob': 0.0004875199811067432}, {'id': 46, 'seek': 17040, 'start': 190.4, 'end': 191.84, 'text': " Okay, I've noted that.", 'tokens': [51364, 1033, 11, 286, 600, 12964, 300, 13, 51436], 'temperature': 0.0, 'avg_logprob': -0.31871866143268085, 'compression_ratio': 1.4676616915422886, 'no_speech_prob': 0.0004875199811067432}, {'id': 47, 'seek': 17040, 'start': 192.64000000000001, 'end': 196.32, 'text': " I'll also perform a few more examinations and then we'll discuss our plan.", 'tokens': [51476, 286, 603, 611, 2042, 257, 1326, 544, 1139, 10325, 293, 550, 321, 603, 2248, 527, 1393, 13, 51660], 'temperature': 0.0, 'avg_logprob': -0.31871866143268085, 'compression_ratio': 1.4676616915422886, 'no_speech_prob': 0.0004875199811067432}, {'id': 48, 'seek': 19632, 'start': 196.72, 'end': 201.84, 'text': " Okay, I'm done with the Fiscal exam.", 'tokens': [50384, 1033, 11, 286, 478, 1096, 365, 264, 479, 14616, 1139, 13, 50640], 'temperature': 0.0, 'avg_logprob': -0.26619372765223187, 'compression_ratio': 1.493273542600897, 'no_speech_prob': 0.0034799447748810053}, {'id': 49, 'seek': 19632, 'start': 202.95999999999998, 'end': 205.92, 'text': ' Aside from the right lower quadrant tenderness,', 'tokens': [50696, 33726, 490, 264, 558, 3126, 46856, 3928, 19416, 11, 50844], 'temperature': 0.0, 'avg_logprob': -0.26619372765223187, 'compression_ratio': 1.493273542600897, 'no_speech_prob': 0.0034799447748810053}, {'id': 50, 'seek': 19632, 'start': 205.92, 'end': 207.84, 'text': ' everything else seems normal on my end.', 'tokens': [50844, 1203, 1646, 2544, 2710, 322, 452, 917, 13, 50940], 'temperature': 0.0, 'avg_logprob': -0.26619372765223187, 'compression_ratio': 1.493273542600897, 'no_speech_prob': 0.0034799447748810053}, {'id': 51, 'seek': 19632, 'start': 208.48, 'end': 210.88, 'text': " I'll order some tests to get a clear picture.", 'tokens': [50972, 286, 603, 1668, 512, 6921, 281, 483, 257, 1850, 3036, 13, 51092], 'temperature': 0.0, 'avg_logprob': -0.26619372765223187, 'compression_ratio': 1.493273542600897, 'no_speech_prob': 0.0034799447748810053}, {'id': 52, 'seek': 19632, 'start': 210.88, 'end': 214.72, 'text': " I'll do some blood work and a CT scan to rule out any serious issues.", 'tokens': [51092, 286, 603, 360, 512, 3390, 589, 293, 257, 19529, 11049, 281, 4978, 484, 604, 3156, 2663, 13, 51284], 'temperature': 0.0, 'avg_logprob': -0.26619372765223187, 'compression_ratio': 1.493273542600897, 'no_speech_prob': 0.0034799447748810053}, {'id': 53, 'seek': 19632, 'start': 215.51999999999998, 'end': 218.32, 'text': " In the meantime, we'll also get a urine sample.", 'tokens': [51324, 682, 264, 14991, 11, 321, 603, 611, 483, 257, 27638, 6889, 13, 51464], 'temperature': 0.0, 'avg_logprob': -0.26619372765223187, 'compression_ratio': 1.493273542600897, 'no_speech_prob': 0.0034799447748810053}, {'id': 54, 'seek': 19632, 'start': 219.44, 'end': 222.16, 'text': " Okay, sounds good. I'm a bit worried though.", 'tokens': [51520, 1033, 11, 3263, 665, 13, 286, 478, 257, 857, 5804, 1673, 13, 51656], 'temperature': 0.0, 'avg_logprob': -0.26619372765223187, 'compression_ratio': 1.493273542600897, 'no_speech_prob': 0.0034799447748810053}, {'id': 55, 'seek': 22216, 'start': 223.12, 'end': 226.79999999999998, 'text': " I understand and we'll do our best to figure out what's going on.", 'tokens': [50412, 286, 1223, 293, 321, 603, 360, 527, 1151, 281, 2573, 484, 437, 311, 516, 322, 13, 50596], 'temperature': 0.0, 'avg_logprob': -0.41882698208678004, 'compression_ratio': 1.5022421524663676, 'no_speech_prob': 0.006094043143093586}, {'id': 56, 'seek': 22216, 'start': 228.48, 'end': 229.2, 'text': ' Hey, subscribe.', 'tokens': [50680, 1911, 11, 3022, 13, 50716], 'temperature': 0.0, 'avg_logprob': -0.41882698208678004, 'compression_ratio': 1.5022421524663676, 'no_speech_prob': 0.006094043143093586}, {'id': 57, 'seek': 22216, 'start': 229.76, 'end': 231.35999999999999, 'text': ' Again for the Fiscal exam.', 'tokens': [50744, 3764, 337, 264, 479, 14616, 1139, 13, 50824], 'temperature': 0.0, 'avg_logprob': -0.41882698208678004, 'compression_ratio': 1.5022421524663676, 'no_speech_prob': 0.006094043143093586}, {'id': 58, 'seek': 22216, 'start': 231.92, 'end': 234.07999999999998, 'text': ' Applement is tenderness or unpopation,', 'tokens': [50852, 3132, 3054, 307, 3928, 19416, 420, 517, 13872, 399, 11, 50960], 'temperature': 0.0, 'avg_logprob': -0.41882698208678004, 'compression_ratio': 1.5022421524663676, 'no_speech_prob': 0.006094043143093586}, {'id': 59, 'seek': 22216, 'start': 234.07999999999998, 'end': 235.92, 'text': ' especially in the right lower quadrant.', 'tokens': [50960, 2318, 294, 264, 558, 3126, 46856, 13, 51052], 'temperature': 0.0, 'avg_logprob': -0.41882698208678004, 'compression_ratio': 1.5022421524663676, 'no_speech_prob': 0.006094043143093586}, {'id': 60, 'seek': 22216, 'start': 236.72, 'end': 238.32, 'text': ' Rebound tenderness present.', 'tokens': [51092, 1300, 18767, 3928, 19416, 1974, 13, 51172], 'temperature': 0.0, 'avg_logprob': -0.41882698208678004, 'compression_ratio': 1.5022421524663676, 'no_speech_prob': 0.006094043143093586}, {'id': 61, 'seek': 22216, 'start': 239.12, 'end': 240.48, 'text': ' Bowsounds are normal.', 'tokens': [51212, 363, 1509, 4432, 366, 2710, 13, 51280], 'temperature': 0.0, 'avg_logprob': -0.41882698208678004, 'compression_ratio': 1.5022421524663676, 'no_speech_prob': 0.006094043143093586}, {'id': 62, 'seek': 22216, 'start': 241.12, 'end': 242.16, 'text': ' No guarding noted.', 'tokens': [51312, 883, 44077, 12964, 13, 51364], 'temperature': 0.0, 'avg_logprob': -0.41882698208678004, 'compression_ratio': 1.5022421524663676, 'no_speech_prob': 0.006094043143093586}, {'id': 63, 'seek': 22216, 'start': 242.8, 'end': 245.2, 'text': ' Patient reports pain at an eight out of ten.', 'tokens': [51396, 25173, 7122, 1822, 412, 364, 3180, 484, 295, 2064, 13, 51516], 'temperature': 0.0, 'avg_logprob': -0.41882698208678004, 'compression_ratio': 1.5022421524663676, 'no_speech_prob': 0.006094043143093586}, {'id': 64, 'seek': 22216, 'start': 246.0, 'end': 248.0, 'text': ' Notestention or mass is palpated.', 'tokens': [51556, 1726, 377, 1251, 420, 2758, 307, 3984, 79, 770, 13, 51656], 'temperature': 0.0, 'avg_logprob': -0.41882698208678004, 'compression_ratio': 1.5022421524663676, 'no_speech_prob': 0.006094043143093586}, {'id': 65, 'seek': 24800, 'start': 248.64, 'end': 255.04, 'text': " I'll order a CBC, CMP, lipase, amylase, and a CT scan", 'tokens': [50396, 286, 603, 1668, 257, 383, 7869, 11, 383, 12224, 11, 8280, 651, 11, 669, 5088, 651, 11, 293, 257, 19529, 11049, 50716], 'temperature': 0.0, 'avg_logprob': -0.2870234363483933, 'compression_ratio': 1.5447154471544715, 'no_speech_prob': 0.003940680529922247}, {'id': 66, 'seek': 24800, 'start': 255.04, 'end': 257.28, 'text': ' of the abdomen and pelvis with the IV contrast.', 'tokens': [50716, 295, 264, 36494, 293, 34617, 365, 264, 15967, 8712, 13, 50828], 'temperature': 0.0, 'avg_logprob': -0.2870234363483933, 'compression_ratio': 1.5447154471544715, 'no_speech_prob': 0.003940680529922247}, {'id': 67, 'seek': 24800, 'start': 258.08, 'end': 260.72, 'text': ' Also, obtain a urine sample for analysis.', 'tokens': [50868, 2743, 11, 12701, 257, 27638, 6889, 337, 5215, 13, 51000], 'temperature': 0.0, 'avg_logprob': -0.2870234363483933, 'compression_ratio': 1.5447154471544715, 'no_speech_prob': 0.003940680529922247}, {'id': 68, 'seek': 24800, 'start': 264.32, 'end': 268.48, 'text': ' Mr. Hope, we need to rest some tests to get a better idea for what', 'tokens': [51180, 2221, 13, 6483, 11, 321, 643, 281, 1472, 512, 6921, 281, 483, 257, 1101, 1558, 337, 437, 51388], 'temperature': 0.0, 'avg_logprob': -0.2870234363483933, 'compression_ratio': 1.5447154471544715, 'no_speech_prob': 0.003940680529922247}, {'id': 69, 'seek': 24800, 'start': 268.48, 'end': 269.92, 'text': ' might be causing your pain.', 'tokens': [51388, 1062, 312, 9853, 428, 1822, 13, 51460], 'temperature': 0.0, 'avg_logprob': -0.2870234363483933, 'compression_ratio': 1.5447154471544715, 'no_speech_prob': 0.003940680529922247}, {'id': 70, 'seek': 24800, 'start': 270.16, 'end': 272.64, 'text': " We'll start with some blood testing and imaging studies.", 'tokens': [51472, 492, 603, 722, 365, 512, 3390, 4997, 293, 25036, 5313, 13, 51596], 'temperature': 0.0, 'avg_logprob': -0.2870234363483933, 'compression_ratio': 1.5447154471544715, 'no_speech_prob': 0.003940680529922247}, {'id': 71, 'seek': 24800, 'start': 272.64, 'end': 276.88, 'text': " In the meantime, I'll prescribe something for the pain to make you more comfortable.", 'tokens': [51596, 682, 264, 14991, 11, 286, 603, 49292, 746, 337, 264, 1822, 281, 652, 291, 544, 4619, 13, 51808], 'temperature': 0.0, 'avg_logprob': -0.2870234363483933, 'compression_ratio': 1.5447154471544715, 'no_speech_prob': 0.003940680529922247}, {'id': 72, 'seek': 27800, 'start': 278.48, 'end': 282.32, 'text': ' Okay, thank you.', 'tokens': [50388, 1033, 11, 1309, 291, 13, 50580], 'temperature': 0.0, 'avg_logprob': -0.31343812488374256, 'compression_ratio': 1.5546218487394958, 'no_speech_prob': 0.0035308529622852802}, {'id': 73, 'seek': 27800, 'start': 282.32, 'end': 284.32, 'text': " I just want to figure out what's going on.", 'tokens': [50580, 286, 445, 528, 281, 2573, 484, 437, 311, 516, 322, 13, 50680], 'temperature': 0.0, 'avg_logprob': -0.31343812488374256, 'compression_ratio': 1.5546218487394958, 'no_speech_prob': 0.0035308529622852802}, {'id': 74, 'seek': 27800, 'start': 285.12, 'end': 286.24, 'text': ' Absolutely.', 'tokens': [50720, 7021, 13, 50776], 'temperature': 0.0, 'avg_logprob': -0.31343812488374256, 'compression_ratio': 1.5546218487394958, 'no_speech_prob': 0.0035308529622852802}, {'id': 75, 'seek': 27800, 'start': 286.24, 'end': 288.56, 'text': " We'll do our best to identify the cause.", 'tokens': [50776, 492, 603, 360, 527, 1151, 281, 5876, 264, 3082, 13, 50892], 'temperature': 0.0, 'avg_logprob': -0.31343812488374256, 'compression_ratio': 1.5546218487394958, 'no_speech_prob': 0.0035308529622852802}, {'id': 76, 'seek': 27800, 'start': 289.04, 'end': 292.88, 'text': " I'll also extend our suicide up the test and look at the process started.", 'tokens': [50916, 286, 603, 611, 10101, 527, 12308, 493, 264, 1500, 293, 574, 412, 264, 1399, 1409, 13, 51108], 'temperature': 0.0, 'avg_logprob': -0.31343812488374256, 'compression_ratio': 1.5546218487394958, 'no_speech_prob': 0.0035308529622852802}, {'id': 77, 'seek': 27800, 'start': 293.36, 'end': 297.44, 'text': ' Is there anything else you think I should know about your symptoms or medical history?', 'tokens': [51132, 1119, 456, 1340, 1646, 291, 519, 286, 820, 458, 466, 428, 8332, 420, 4625, 2503, 30, 51336], 'temperature': 0.0, 'avg_logprob': -0.31343812488374256, 'compression_ratio': 1.5546218487394958, 'no_speech_prob': 0.0035308529622852802}, {'id': 78, 'seek': 27800, 'start': 299.28, 'end': 301.36, 'text': " I can't think of anything else at the moment.", 'tokens': [51428, 286, 393, 380, 519, 295, 1340, 1646, 412, 264, 1623, 13, 51532], 'temperature': 0.0, 'avg_logprob': -0.31343812488374256, 'compression_ratio': 1.5546218487394958, 'no_speech_prob': 0.0035308529622852802}, {'id': 79, 'seek': 27800, 'start': 301.36, 'end': 303.04, 'text': ' I appreciate your help Dr. Braldo.', 'tokens': [51532, 286, 4449, 428, 854, 2491, 13, 1603, 304, 2595, 13, 51616], 'temperature': 0.0, 'avg_logprob': -0.31343812488374256, 'compression_ratio': 1.5546218487394958, 'no_speech_prob': 0.0035308529622852802}, {'id': 80, 'seek': 27800, 'start': 304.08, 'end': 304.72, 'text': " You're welcome.", 'tokens': [51668, 509, 434, 2928, 13, 51700], 'temperature': 0.0, 'avg_logprob': -0.31343812488374256, 'compression_ratio': 1.5546218487394958, 'no_speech_prob': 0.0035308529622852802}, {'id': 81, 'seek': 30472, 'start': 305.36, 'end': 307.84000000000003, 'text': " Let's get those tests done and we'll go from there.", 'tokens': [50396, 961, 311, 483, 729, 6921, 1096, 293, 321, 603, 352, 490, 456, 13, 50520], 'temperature': 0.0, 'avg_logprob': -0.19337666829427083, 'compression_ratio': 1.5633187772925765, 'no_speech_prob': 0.0035898166242986917}, {'id': 82, 'seek': 30472, 'start': 308.40000000000003, 'end': 314.08000000000004, 'text': ' If the pain worsens or if you notice any concerning changes before we get the results,', 'tokens': [50548, 759, 264, 1822, 47567, 694, 420, 498, 291, 3449, 604, 18087, 2962, 949, 321, 483, 264, 3542, 11, 50832], 'temperature': 0.0, 'avg_logprob': -0.19337666829427083, 'compression_ratio': 1.5633187772925765, 'no_speech_prob': 0.0035898166242986917}, {'id': 83, 'seek': 30472, 'start': 314.08000000000004, 'end': 316.0, 'text': " don't hesitate to push your call button.", 'tokens': [50832, 500, 380, 20842, 281, 2944, 428, 818, 2960, 13, 50928], 'temperature': 0.0, 'avg_logprob': -0.19337666829427083, 'compression_ratio': 1.5633187772925765, 'no_speech_prob': 0.0035898166242986917}, {'id': 84, 'seek': 30472, 'start': 319.04, 'end': 319.92, 'text': ' Nurse Perez.', 'tokens': [51080, 48945, 47317, 13, 51124], 'temperature': 0.0, 'avg_logprob': -0.19337666829427083, 'compression_ratio': 1.5633187772925765, 'no_speech_prob': 0.0035898166242986917}, {'id': 85, 'seek': 30472, 'start': 321.44000000000005, 'end': 327.12, 'text': " Let's start the patient on IV fluids and administer four milligrams of morphine for pain control.", 'tokens': [51200, 961, 311, 722, 264, 4537, 322, 15967, 33033, 293, 22096, 1451, 45147, 295, 25778, 533, 337, 1822, 1969, 13, 51484], 'temperature': 0.0, 'avg_logprob': -0.19337666829427083, 'compression_ratio': 1.5633187772925765, 'no_speech_prob': 0.0035898166242986917}, {'id': 86, 'seek': 30472, 'start': 328.32000000000005, 'end': 332.08000000000004, 'text': " Once the results are back, we'll reassess and determine if surgical", 'tokens': [51544, 3443, 264, 3542, 366, 646, 11, 321, 603, 19486, 442, 293, 6997, 498, 26646, 51732], 'temperature': 0.0, 'avg_logprob': -0.19337666829427083, 'compression_ratio': 1.5633187772925765, 'no_speech_prob': 0.0035898166242986917}, {'id': 87, 'seek': 33208, 'start': 332.08, 'end': 333.44, 'text': ' consultation is necessary.', 'tokens': [50364, 20932, 307, 4818, 13, 50432], 'temperature': 0.0, 'avg_logprob': -0.351651668548584, 'compression_ratio': 1.484375, 'no_speech_prob': 0.005135107319802046}, {'id': 88, 'seek': 33208, 'start': 334.15999999999997, 'end': 336.8, 'text': " That's all for now. Let's keep a close eye on the patient.", 'tokens': [50468, 663, 311, 439, 337, 586, 13, 961, 311, 1066, 257, 1998, 3313, 322, 264, 4537, 13, 50600], 'temperature': 0.0, 'avg_logprob': -0.351651668548584, 'compression_ratio': 1.484375, 'no_speech_prob': 0.005135107319802046}, {'id': 89, 'seek': 33208, 'start': 338.4, 'end': 341.2, 'text': " Subscribe. We're going to get the CT done on him.", 'tokens': [50680, 10611, 13, 492, 434, 516, 281, 483, 264, 19529, 1096, 322, 796, 13, 50820], 'temperature': 0.0, 'avg_logprob': -0.351651668548584, 'compression_ratio': 1.484375, 'no_speech_prob': 0.005135107319802046}, {'id': 90, 'seek': 33208, 'start': 342.08, 'end': 344.08, 'text': " We'll see him with the CT results again.", 'tokens': [50864, 492, 603, 536, 796, 365, 264, 19529, 3542, 797, 13, 50964], 'temperature': 0.0, 'avg_logprob': -0.351651668548584, 'compression_ratio': 1.484375, 'no_speech_prob': 0.005135107319802046}, {'id': 91, 'seek': 33208, 'start': 348.47999999999996, 'end': 351.91999999999996, 'text': " Hey, subscribe. I'm about to see Raymond Hole and Room 1 again.", 'tokens': [51184, 1911, 11, 3022, 13, 286, 478, 466, 281, 536, 42813, 47635, 293, 19190, 502, 797, 13, 51356], 'temperature': 0.0, 'avg_logprob': -0.351651668548584, 'compression_ratio': 1.484375, 'no_speech_prob': 0.005135107319802046}, {'id': 92, 'seek': 33208, 'start': 352.56, 'end': 354.56, 'text': ' All the tests results are in for misra hold.', 'tokens': [51388, 1057, 264, 6921, 3542, 366, 294, 337, 3346, 424, 1797, 13, 51488], 'temperature': 0.0, 'avg_logprob': -0.351651668548584, 'compression_ratio': 1.484375, 'no_speech_prob': 0.005135107319802046}, {'id': 93, 'seek': 35456, 'start': 355.28000000000003, 'end': 360.08, 'text': " CBC, CMP, life pays, MLA's levels are all normal.", 'tokens': [50400, 383, 7869, 11, 383, 12224, 11, 993, 10604, 11, 376, 11435, 311, 4358, 366, 439, 2710, 13, 50640], 'temperature': 0.0, 'avg_logprob': -0.27846373682436737, 'compression_ratio': 1.4891774891774892, 'no_speech_prob': 0.05027064308524132}, {'id': 94, 'seek': 35456, 'start': 360.72, 'end': 363.44, 'text': " CT scan doesn't show any concerning abnormalities.", 'tokens': [50672, 19529, 11049, 1177, 380, 855, 604, 18087, 47104, 16110, 13, 50808], 'temperature': 0.0, 'avg_logprob': -0.27846373682436737, 'compression_ratio': 1.4891774891774892, 'no_speech_prob': 0.05027064308524132}, {'id': 95, 'seek': 35456, 'start': 364.16, 'end': 367.6, 'text': ' CT scan at the abdomen and pelvis was completed at 8.30 a.m.', 'tokens': [50844, 19529, 11049, 412, 264, 36494, 293, 34617, 390, 7365, 412, 1649, 13, 3446, 257, 13, 76, 13, 51016], 'temperature': 0.0, 'avg_logprob': -0.27846373682436737, 'compression_ratio': 1.4891774891774892, 'no_speech_prob': 0.05027064308524132}, {'id': 96, 'seek': 35456, 'start': 368.72, 'end': 371.6, 'text': ' Radiologists and prescient of the CT scan as follows.', 'tokens': [51072, 37806, 12256, 293, 1183, 5412, 295, 264, 19529, 11049, 382, 10002, 13, 51216], 'temperature': 0.0, 'avg_logprob': -0.27846373682436737, 'compression_ratio': 1.4891774891774892, 'no_speech_prob': 0.05027064308524132}, {'id': 97, 'seek': 35456, 'start': 372.64, 'end': 377.52, 'text': ' The visualized abdominal organs and structures appear within normal limits', 'tokens': [51268, 440, 5056, 1602, 38701, 20659, 293, 9227, 4204, 1951, 2710, 10406, 51512], 'temperature': 0.0, 'avg_logprob': -0.27846373682436737, 'compression_ratio': 1.4891774891774892, 'no_speech_prob': 0.05027064308524132}, {'id': 98, 'seek': 35456, 'start': 377.52, 'end': 381.52, 'text': ' without evidence of acute pathology or focal lesions.', 'tokens': [51512, 1553, 4467, 295, 24390, 3100, 1793, 420, 26592, 1512, 626, 13, 51712], 'temperature': 0.0, 'avg_logprob': -0.27846373682436737, 'compression_ratio': 1.4891774891774892, 'no_speech_prob': 0.05027064308524132}, {'id': 99, 'seek': 38152, 'start': 381.91999999999996, 'end': 385.52, 'text': ' The urinalysis is also unremarkable.', 'tokens': [50384, 440, 4038, 2071, 4642, 307, 611, 517, 2579, 809, 712, 13, 50564], 'temperature': 0.0, 'avg_logprob': -0.3498090789431617, 'compression_ratio': 1.5204081632653061, 'no_speech_prob': 0.006897853687405586}, {'id': 100, 'seek': 38152, 'start': 386.71999999999997, 'end': 388.47999999999996, 'text': ' It seems that there is no serious issue.', 'tokens': [50624, 467, 2544, 300, 456, 307, 572, 3156, 2734, 13, 50712], 'temperature': 0.0, 'avg_logprob': -0.3498090789431617, 'compression_ratio': 1.5204081632653061, 'no_speech_prob': 0.006897853687405586}, {'id': 101, 'seek': 38152, 'start': 389.44, 'end': 394.24, 'text': ' Diagnosis for this one, you can just put a abdominal pain in an asha.', 'tokens': [50760, 8789, 4535, 8211, 337, 341, 472, 11, 291, 393, 445, 829, 257, 38701, 1822, 294, 364, 382, 1641, 13, 51000], 'temperature': 0.0, 'avg_logprob': -0.3498090789431617, 'compression_ratio': 1.5204081632653061, 'no_speech_prob': 0.006897853687405586}, {'id': 102, 'seek': 38152, 'start': 395.28, 'end': 397.44, 'text': " I'll just prescribe him self-ran for the nausea.", 'tokens': [51052, 286, 603, 445, 49292, 796, 2698, 12, 4257, 337, 264, 34735, 64, 13, 51160], 'temperature': 0.0, 'avg_logprob': -0.3498090789431617, 'compression_ratio': 1.5204081632653061, 'no_speech_prob': 0.006897853687405586}, {'id': 103, 'seek': 38152, 'start': 398.32, 'end': 399.91999999999996, 'text': ' The future diagnosis includes', 'tokens': [51204, 440, 2027, 15217, 5974, 51284], 'temperature': 0.0, 'avg_logprob': -0.3498090789431617, 'compression_ratio': 1.5204081632653061, 'no_speech_prob': 0.006897853687405586}, {'id': 104, 'seek': 38152, 'start': 400.79999999999995, 'end': 405.28, 'text': ' referred pain from other organs, functional gastrointestinal disorders,', 'tokens': [51328, 10839, 1822, 490, 661, 20659, 11, 11745, 17898, 340, 686, 377, 2071, 20261, 11, 51552], 'temperature': 0.0, 'avg_logprob': -0.3498090789431617, 'compression_ratio': 1.5204081632653061, 'no_speech_prob': 0.006897853687405586}, {'id': 105, 'seek': 40528, 'start': 406.15999999999997, 'end': 409.2, 'text': ' custo-condroitis, and muscular skeletal pain.', 'tokens': [50408, 14884, 78, 12, 18882, 340, 16074, 11, 293, 31641, 32321, 304, 1822, 13, 50560], 'temperature': 0.0, 'avg_logprob': -0.3102465004756533, 'compression_ratio': 1.547244094488189, 'no_speech_prob': 0.0037601746153086424}, {'id': 106, 'seek': 40528, 'start': 409.76, 'end': 411.84, 'text': ' Patients will follow it with PCP within a week.', 'tokens': [50588, 4379, 2448, 486, 1524, 309, 365, 6465, 47, 1951, 257, 1243, 13, 50692], 'temperature': 0.0, 'avg_logprob': -0.3102465004756533, 'compression_ratio': 1.547244094488189, 'no_speech_prob': 0.0037601746153086424}, {'id': 107, 'seek': 40528, 'start': 414.64, 'end': 415.59999999999997, 'text': ' Good news, Mr. Hole.', 'tokens': [50832, 2205, 2583, 11, 2221, 13, 47635, 13, 50880], 'temperature': 0.0, 'avg_logprob': -0.3102465004756533, 'compression_ratio': 1.547244094488189, 'no_speech_prob': 0.0037601746153086424}, {'id': 108, 'seek': 40528, 'start': 416.4, 'end': 418.15999999999997, 'text': ' All your tests came back normal.', 'tokens': [50920, 1057, 428, 6921, 1361, 646, 2710, 13, 51008], 'temperature': 0.0, 'avg_logprob': -0.3102465004756533, 'compression_ratio': 1.547244094488189, 'no_speech_prob': 0.0037601746153086424}, {'id': 109, 'seek': 40528, 'start': 418.4, 'end': 422.47999999999996, 'text': " It's possible that the pain could be due to malstummit upset or something similar.", 'tokens': [51020, 467, 311, 1944, 300, 264, 1822, 727, 312, 3462, 281, 2806, 372, 449, 3508, 8340, 420, 746, 2531, 13, 51224], 'temperature': 0.0, 'avg_logprob': -0.3102465004756533, 'compression_ratio': 1.547244094488189, 'no_speech_prob': 0.0037601746153086424}, {'id': 110, 'seek': 40528, 'start': 423.2, 'end': 425.52, 'text': " I'll prescribe me some so-friend for nausea relief.", 'tokens': [51260, 286, 603, 49292, 385, 512, 370, 12, 5540, 337, 34735, 64, 10915, 13, 51376], 'temperature': 0.0, 'avg_logprob': -0.3102465004756533, 'compression_ratio': 1.547244094488189, 'no_speech_prob': 0.0037601746153086424}, {'id': 111, 'seek': 40528, 'start': 426.08, 'end': 430.23999999999995, 'text': ' If the pain persists or worsens, follow up with your primary care doctor.', 'tokens': [51404, 759, 264, 1822, 868, 1751, 420, 47567, 694, 11, 1524, 493, 365, 428, 6194, 1127, 4631, 13, 51612], 'temperature': 0.0, 'avg_logprob': -0.3102465004756533, 'compression_ratio': 1.547244094488189, 'no_speech_prob': 0.0037601746153086424}, {'id': 112, 'seek': 40528, 'start': 431.35999999999996, 'end': 433.52, 'text': " I'll thank goodness. I'm so worried.", 'tokens': [51668, 286, 603, 1309, 8387, 13, 286, 478, 370, 5804, 13, 51776], 'temperature': 0.0, 'avg_logprob': -0.3102465004756533, 'compression_ratio': 1.547244094488189, 'no_speech_prob': 0.0037601746153086424}, {'id': 113, 'seek': 43352, 'start': 434.0, 'end': 439.35999999999996, 'text': ' I completely understand. If you have any concerns or if the pain persists,', 'tokens': [50388, 286, 2584, 1223, 13, 759, 291, 362, 604, 7389, 420, 498, 264, 1822, 868, 1751, 11, 50656], 'temperature': 0.0, 'avg_logprob': -0.2115518685543176, 'compression_ratio': 1.4022988505747127, 'no_speech_prob': 0.00358992419205606}, {'id': 114, 'seek': 43352, 'start': 439.35999999999996, 'end': 442.32, 'text': " don't hesitate to reach out and seek medical attention.", 'tokens': [50656, 500, 380, 20842, 281, 2524, 484, 293, 8075, 4625, 3202, 13, 50804], 'temperature': 0.0, 'avg_logprob': -0.2115518685543176, 'compression_ratio': 1.4022988505747127, 'no_speech_prob': 0.00358992419205606}, {'id': 115, 'seek': 43352, 'start': 442.88, 'end': 445.59999999999997, 'text': ' Otherwise, I recommend rest and hydration.', 'tokens': [50832, 10328, 11, 286, 2748, 1472, 293, 43631, 13, 50968], 'temperature': 0.0, 'avg_logprob': -0.2115518685543176, 'compression_ratio': 1.4022988505747127, 'no_speech_prob': 0.00358992419205606}, {'id': 116, 'seek': 43352, 'start': 446.24, 'end': 448.88, 'text': ' Make sure to follow up with your PCP in a week.', 'tokens': [51000, 4387, 988, 281, 1524, 493, 365, 428, 6465, 47, 294, 257, 1243, 13, 51132], 'temperature': 0.0, 'avg_logprob': -0.2115518685543176, 'compression_ratio': 1.4022988505747127, 'no_speech_prob': 0.00358992419205606}, {'id': 117, 'seek': 43352, 'start': 448.88, 'end': 450.88, 'text': " You're free to go now.", 'tokens': [51132, 509, 434, 1737, 281, 352, 586, 13, 51232], 'temperature': 0.0, 'avg_logprob': -0.2115518685543176, 'compression_ratio': 1.4022988505747127, 'no_speech_prob': 0.00358992419205606}], 'language': 'en'}
