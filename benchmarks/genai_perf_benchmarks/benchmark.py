@@ -78,7 +78,7 @@ fig_200_200 = px.line(
     color="System",
     markers=True,
     text="Concurrency",
-    title="Performance (200/200 ISL/OSL) Across 4×A100 PCIe & 4×H100 SXM",
+    title="Performance (200/200 ISL/OSL) Across 4×A100 PCIe & 4×H100 SXM (Higher is Better)",
 )
 fig_200_200.update_layout(
     xaxis_title="Single User TTFT (seconds)",
@@ -95,7 +95,7 @@ fig_1000_200 = px.line(
     color="System",
     markers=True,
     text="Concurrency",
-    title="Performance (1000/200 ISL/OSL) Across 4×A100 PCIe & 4×H100 SXM",
+    title="Performance (1000/200 ISL/OSL) Across 4×A100 PCIe & 4×H100 SXM (Higher is Better)",
 )
 fig_1000_200.update_layout(
     xaxis_title="Single User TTFT (seconds)",
@@ -112,7 +112,7 @@ fig_200_200_per_user = px.line(
     color="System",
     markers=True,
     text="TPS_per_user",
-    title="TTFT vs Concurrency (200/200 ISL/OSL) TPS/user",
+    title="TTFT vs Concurrency (200/200 ISL/OSL) TPS/user (Lower is Better)",
 )
 fig_200_200_per_user.update_layout(
     xaxis_title="Concurrency (users)",
@@ -139,7 +139,7 @@ fig_1000_200_per_user = px.line(
     color="System",
     markers=True,
     text="TPS_per_user",
-    title="TTFT vs Concurrency (1000/200 ISL/OSL) TPS/user",
+    title="TTFT vs Concurrency (1000/200 ISL/OSL) TPS/user (Lower is Better)",
 )
 fig_1000_200_per_user.update_layout(
     xaxis_title="Concurrency (users)",
