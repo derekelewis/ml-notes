@@ -6,3 +6,4 @@
 *.pth
 __pycache__/
 .venv
+.env
