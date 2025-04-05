@@ -25,7 +25,6 @@ def extract_tps_ttft(csv_path):
     - TTFT is row[0]['avg']/1000 (with commas stripped).
     """
     df = parse_data(csv_path)
-    print(df)
     tps_str = df.iloc[6]["avg"].replace(",", "")
     ttft_str = df.iloc[0]["avg"].replace(",", "")
     return float(tps_str), float(ttft_str) / 1000.0
